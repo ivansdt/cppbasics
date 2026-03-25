@@ -679,6 +679,15 @@ OPENGL_gl_LIBRARY:STRING=opengl32
 OPENGL_glu_LIBRARY:STRING=glu32
 
 //Value Computed by CMake
+ObjectOrientedProgramming-ClassesAndObjects-Inheritance_BINARY_DIR:STATIC=C:/Users/B760M/CLionProjects/C++ Basics/cmake-build-debug/ObjectOrientedProgramming/ClassesAndObjects/task
+
+//Value Computed by CMake
+ObjectOrientedProgramming-ClassesAndObjects-Inheritance_IS_TOP_LEVEL:STATIC=OFF
+
+//Value Computed by CMake
+ObjectOrientedProgramming-ClassesAndObjects-Inheritance_SOURCE_DIR:STATIC=C:/Users/B760M/CLionProjects/C++ Basics/ObjectOrientedProgramming/ClassesAndObjects/task
+
+//Value Computed by CMake
 ObjectOrientedProgramming-ClassesAndObjects-IntroducingObjects_BINARY_DIR:STATIC=C:/Users/B760M/CLionProjects/C++ Basics/cmake-build-debug/ObjectOrientedProgramming/ClassesAndObjects/task
 
 //Value Computed by CMake

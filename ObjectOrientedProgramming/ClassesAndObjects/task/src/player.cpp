@@ -37,7 +37,13 @@ void PlayerObject::update(sf::Time delta) {
 }
 
 const sf::Texture* PlayerObject::getTexture(TextureManager& textureManager) const {
-    // TODO: write your solution here
+    TextureManager tManager = TextureManager();
+    if (getStatus() == GameObjectStatus::DESTROYED) {
+        return tManager.getTexture(GameTextureID::PLANET_DEAD);
+    }
+    else if (getStatus() == GameObjectStatus::NORMAL || getStatus() == GameObjectStatus::WARNED) {
+        return tManager.getTexture(GameTextureID::PLANET);
+    }
     return nullptr;
 }
 

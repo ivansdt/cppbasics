@@ -1070,15 +1070,15 @@ MemoryManagement/TypeCastsAndCStrings/TypeCastsQuestion/clean: MemoryManagement/
 # Directory level rules for directory ObjectOrientedProgramming/ClassesAndObjects/task
 
 # Recursive "all" directory target.
-ObjectOrientedProgramming/ClassesAndObjects/task/all: ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir/all
-ObjectOrientedProgramming/ClassesAndObjects/task/all: ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir/all
-ObjectOrientedProgramming/ClassesAndObjects/task/all: ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test.dir/all
+ObjectOrientedProgramming/ClassesAndObjects/task/all: ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-run.dir/all
+ObjectOrientedProgramming/ClassesAndObjects/task/all: ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test-src-part.dir/all
+ObjectOrientedProgramming/ClassesAndObjects/task/all: ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test.dir/all
 .PHONY : ObjectOrientedProgramming/ClassesAndObjects/task/all
 
 # Recursive "codegen" directory target.
-ObjectOrientedProgramming/ClassesAndObjects/task/codegen: ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir/codegen
-ObjectOrientedProgramming/ClassesAndObjects/task/codegen: ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir/codegen
-ObjectOrientedProgramming/ClassesAndObjects/task/codegen: ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test.dir/codegen
+ObjectOrientedProgramming/ClassesAndObjects/task/codegen: ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-run.dir/codegen
+ObjectOrientedProgramming/ClassesAndObjects/task/codegen: ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test-src-part.dir/codegen
+ObjectOrientedProgramming/ClassesAndObjects/task/codegen: ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test.dir/codegen
 .PHONY : ObjectOrientedProgramming/ClassesAndObjects/task/codegen
 
 # Recursive "preinstall" directory target.
@@ -1086,9 +1086,9 @@ ObjectOrientedProgramming/ClassesAndObjects/task/preinstall:
 .PHONY : ObjectOrientedProgramming/ClassesAndObjects/task/preinstall
 
 # Recursive "clean" directory target.
-ObjectOrientedProgramming/ClassesAndObjects/task/clean: ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir/clean
-ObjectOrientedProgramming/ClassesAndObjects/task/clean: ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir/clean
-ObjectOrientedProgramming/ClassesAndObjects/task/clean: ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test.dir/clean
+ObjectOrientedProgramming/ClassesAndObjects/task/clean: ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-run.dir/clean
+ObjectOrientedProgramming/ClassesAndObjects/task/clean: ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test-src-part.dir/clean
+ObjectOrientedProgramming/ClassesAndObjects/task/clean: ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test.dir/clean
 .PHONY : ObjectOrientedProgramming/ClassesAndObjects/task/clean
 
 #=============================================================================
@@ -4218,112 +4218,112 @@ MemoryManagement/TypeCastsAndCStrings/TypeCastsQuestion/CMakeFiles/MemoryManagem
 .PHONY : MemoryManagement/TypeCastsAndCStrings/TypeCastsQuestion/CMakeFiles/MemoryManagement-TypeCastsAndCStrings-TypeCastsQuestion-run.dir/clean
 
 #=============================================================================
-# Target rules for target ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir
+# Target rules for target ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-run.dir
 
 # All Build rule for target.
-ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/sfml/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/all
-ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/sfml/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/all
-ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/sfml/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/all
-ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/sfml/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/all
-	$(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir/depend
-	$(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="C:\Users\B760M\CLionProjects\C++ Basics\cmake-build-debug\CMakeFiles" --progress-num=26,27,28,29,30 "Built target ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run"
-.PHONY : ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir/all
+ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-run.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/sfml/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/all
+ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-run.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/sfml/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/all
+ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-run.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/sfml/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/all
+ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-run.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/sfml/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/all
+	$(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-run.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-run.dir/depend
+	$(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-run.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-run.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="C:\Users\B760M\CLionProjects\C++ Basics\cmake-build-debug\CMakeFiles" --progress-num=26,27,28,29,30 "Built target ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-run"
+.PHONY : ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-run.dir/all
 
 # Build rule for subdir invocation for target.
-ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir/rule: cmake_check_build_system
+ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-run.dir/rule: cmake_check_build_system
 	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\B760M\CLionProjects\C++ Basics\cmake-build-debug\CMakeFiles" 27
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir/all
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-run.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\B760M\CLionProjects\C++ Basics\cmake-build-debug\CMakeFiles" 0
-.PHONY : ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir/rule
+.PHONY : ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-run.dir/rule
 
 # Convenience name for target.
-ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run: ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir/rule
-.PHONY : ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run
+ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-run: ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-run.dir/rule
+.PHONY : ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-run
 
 # codegen rule for target.
-ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir/codegen:
-	$(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="C:\Users\B760M\CLionProjects\C++ Basics\cmake-build-debug\CMakeFiles" --progress-num=26,27,28,29,30 "Finished codegen for target ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run"
-.PHONY : ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir/codegen
+ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-run.dir/codegen:
+	$(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-run.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-run.dir/codegen
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="C:\Users\B760M\CLionProjects\C++ Basics\cmake-build-debug\CMakeFiles" --progress-num=26,27,28,29,30 "Finished codegen for target ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-run"
+.PHONY : ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-run.dir/codegen
 
 # clean rule for target.
-ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir/clean:
-	$(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir/clean
-.PHONY : ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir/clean
+ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-run.dir/clean:
+	$(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-run.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-run.dir/clean
+.PHONY : ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-run.dir/clean
 
 #=============================================================================
-# Target rules for target ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir
+# Target rules for target ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test-src-part.dir
 
 # All Build rule for target.
-ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/sfml/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/all
-ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/sfml/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/all
-ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/sfml/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/all
-ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/sfml/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/all
-	$(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir/depend
-	$(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="C:\Users\B760M\CLionProjects\C++ Basics\cmake-build-debug\CMakeFiles" --progress-num=31,32,33,34,35 "Built target ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part"
-.PHONY : ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir/all
+ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test-src-part.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/sfml/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/all
+ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test-src-part.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/sfml/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/all
+ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test-src-part.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/sfml/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/all
+ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test-src-part.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/sfml/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/all
+	$(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test-src-part.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test-src-part.dir/depend
+	$(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test-src-part.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test-src-part.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="C:\Users\B760M\CLionProjects\C++ Basics\cmake-build-debug\CMakeFiles" --progress-num=31,32,33,34,35 "Built target ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test-src-part"
+.PHONY : ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test-src-part.dir/all
 
 # Build rule for subdir invocation for target.
-ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir/rule: cmake_check_build_system
+ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test-src-part.dir/rule: cmake_check_build_system
 	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\B760M\CLionProjects\C++ Basics\cmake-build-debug\CMakeFiles" 27
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir/all
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test-src-part.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\B760M\CLionProjects\C++ Basics\cmake-build-debug\CMakeFiles" 0
-.PHONY : ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir/rule
+.PHONY : ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test-src-part.dir/rule
 
 # Convenience name for target.
-ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part: ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir/rule
-.PHONY : ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part
+ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test-src-part: ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test-src-part.dir/rule
+.PHONY : ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test-src-part
 
 # codegen rule for target.
-ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir/codegen:
-	$(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="C:\Users\B760M\CLionProjects\C++ Basics\cmake-build-debug\CMakeFiles" --progress-num=31,32,33,34,35 "Finished codegen for target ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part"
-.PHONY : ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir/codegen
+ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test-src-part.dir/codegen:
+	$(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test-src-part.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test-src-part.dir/codegen
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="C:\Users\B760M\CLionProjects\C++ Basics\cmake-build-debug\CMakeFiles" --progress-num=31,32,33,34,35 "Finished codegen for target ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test-src-part"
+.PHONY : ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test-src-part.dir/codegen
 
 # clean rule for target.
-ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir/clean:
-	$(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir/clean
-.PHONY : ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir/clean
+ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test-src-part.dir/clean:
+	$(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test-src-part.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test-src-part.dir/clean
+.PHONY : ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test-src-part.dir/clean
 
 #=============================================================================
-# Target rules for target ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test.dir
+# Target rules for target ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test.dir
 
 # All Build rule for target.
-ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/test-framework/googletest-build/googletest/CMakeFiles/gtest.dir/all
-ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/test-framework/googletest-build/googletest/CMakeFiles/gtest_main.dir/all
-ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/sfml/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/all
-ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/sfml/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/all
-ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/sfml/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/all
-ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/sfml/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/all
-ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test.dir/all: ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir/all
-	$(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test.dir/depend
-	$(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="C:\Users\B760M\CLionProjects\C++ Basics\cmake-build-debug\CMakeFiles" --progress-num= "Built target ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test"
-.PHONY : ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test.dir/all
+ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/test-framework/googletest-build/googletest/CMakeFiles/gtest.dir/all
+ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/test-framework/googletest-build/googletest/CMakeFiles/gtest_main.dir/all
+ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/sfml/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/all
+ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/sfml/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/all
+ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/sfml/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/all
+ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/sfml/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/all
+ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test.dir/all: ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test-src-part.dir/all
+	$(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test.dir/depend
+	$(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="C:\Users\B760M\CLionProjects\C++ Basics\cmake-build-debug\CMakeFiles" --progress-num= "Built target ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test"
+.PHONY : ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test.dir/all
 
 # Build rule for subdir invocation for target.
-ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test.dir/rule: cmake_check_build_system
+ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test.dir/rule: cmake_check_build_system
 	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\B760M\CLionProjects\C++ Basics\cmake-build-debug\CMakeFiles" 28
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test.dir/all
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\B760M\CLionProjects\C++ Basics\cmake-build-debug\CMakeFiles" 0
-.PHONY : ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test.dir/rule
+.PHONY : ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test.dir/rule
 
 # Convenience name for target.
-ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test: ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test.dir/rule
-.PHONY : ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test
+ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test: ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test.dir/rule
+.PHONY : ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test
 
 # codegen rule for target.
-ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test.dir/codegen:
-	$(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="C:\Users\B760M\CLionProjects\C++ Basics\cmake-build-debug\CMakeFiles" --progress-num= "Finished codegen for target ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test"
-.PHONY : ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test.dir/codegen
+ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test.dir/codegen:
+	$(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test.dir/codegen
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="C:\Users\B760M\CLionProjects\C++ Basics\cmake-build-debug\CMakeFiles" --progress-num= "Finished codegen for target ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test"
+.PHONY : ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test.dir/codegen
 
 # clean rule for target.
-ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test.dir/clean:
-	$(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test.dir/clean
-.PHONY : ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test.dir/clean
+ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test.dir/clean:
+	$(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test.dir/clean
+.PHONY : ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test.dir/clean
 
 #=============================================================================
 # Target rules for target ObjectOrientedProgramming/MemoryOwnership/CopyConstructor/CMakeFiles/ObjectOrientedProgramming-MemoryOwnership-CopyConstructor-run.dir

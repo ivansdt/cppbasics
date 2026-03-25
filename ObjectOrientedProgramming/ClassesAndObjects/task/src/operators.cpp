@@ -1,68 +1,41 @@
 #include "game.hpp"
 
 Point2D operator+(Point2D a, Point2D b) {
-    Point2D r = {0, 0};
-    r.x = a.x + b.x;
-    r.y = a.y + b.y;
-    return r;
+    // TODO: write your solution here
 }
 
 Point2D operator-(Point2D a) {
-    Point2D r = {0, 0};
-    r.x = -a.x;
-    r.y = -a.y;
-    return r;
+    // TODO: write your solution here
 }
 
 Point2D operator-(Point2D a, Point2D b) {
-    Point2D r = {0, 0};
-    r.x = a.x - b.x;
-    r.y = a.y - b.y;
-    return r;
+    // TODO: write your solution here
 }
 
 Point2D operator*(float s, Point2D a) {
-    Point2D r = {0, 0};
-    r.x = a.x * s;
-    r.y = a.y * s;
-    return r;
+    // TODO: write your solution here
 }
 
 Circle operator+(Circle c, Point2D v) {
-    c.center.x += v.x;
-    c.center.y += v.y;
-    return c;
+    // TODO: write your solution here
 }
 
 Circle operator-(Circle c, Point2D v) {
-    c.center.x -= v.x;
-    c.center.y -= v.y;
-    return c;
+    // TODO: write your solution here
 }
 
 Rectangle operator+(Rectangle r, Point2D v) {
-    r.topLeft.x += v.x;
-    r.topLeft.y += v.y;
-    r.botRight.x += v.x;
-    r.botRight.y += v.y;
-    return r;
+    // TODO: write your solution here
 }
 
 Rectangle operator-(Rectangle r, Point2D v) {
-    r.topLeft.x -= v.x;
-    r.topLeft.y -= v.y;
-    r.botRight.x -= v.x;
-    r.botRight.y -= v.y;
-    return r;
+    // TODO: write your solution here
 }
 
 Circle operator*(float s, Circle c) {
-    c.radius *= s;
-    return c;
+    // TODO: write your solution here
 }
 
 Rectangle operator*(float s, Rectangle r) {
-    r.botRight.x = r.topLeft.x + (width(r) * s);
-    r.botRight.y = r.topLeft.y + (height(r) * s);
-    return r;
+    // TODO: write your solution here
 }
