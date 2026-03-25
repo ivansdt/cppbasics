@@ -33,7 +33,7 @@ Point2D PlayerObject::getVelocity() const {
 }
 
 void PlayerObject::update(sf::Time delta) {
-    return;
+
 }
 
 const sf::Texture* PlayerObject::getTexture(TextureManager& textureManager) const {
