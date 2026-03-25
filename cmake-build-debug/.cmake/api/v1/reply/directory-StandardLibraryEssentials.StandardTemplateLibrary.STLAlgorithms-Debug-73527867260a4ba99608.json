@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "StandardLibraryEssentials/StandardTemplateLibrary/STLAlgorithms",
+		"source" : "StandardLibraryEssentials/StandardTemplateLibrary/STLAlgorithms"
+	}
+}

@@ -1,0 +1,2 @@
+C:\Users\B760M\AppData\Local\Programs\CLion\bin\mingw\bin\ar.exe qc libObjectOrientedProgramming-MemoryOwnership-new_and_delete_operators-test-src-part.a "CMakeFiles/ObjectOrientedProgramming-MemoryOwnership-new_and_delete_operators-test-src-part.dir/src/task.cpp.obj" "CMakeFiles/ObjectOrientedProgramming-MemoryOwnership-new_and_delete_operators-test-src-part.dir/src/book.cpp.obj"
+C:\Users\B760M\AppData\Local\Programs\CLion\bin\mingw\bin\ranlib.exe libObjectOrientedProgramming-MemoryOwnership-new_and_delete_operators-test-src-part.a

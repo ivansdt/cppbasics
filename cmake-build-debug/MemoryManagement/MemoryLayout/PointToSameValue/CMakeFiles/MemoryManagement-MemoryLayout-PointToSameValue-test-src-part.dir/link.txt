@@ -1,0 +1,2 @@
+C:\Users\B760M\AppData\Local\Programs\CLion\bin\mingw\bin\ar.exe qc libMemoryManagement-MemoryLayout-PointToSameValue-test-src-part.a "CMakeFiles/MemoryManagement-MemoryLayout-PointToSameValue-test-src-part.dir/src/task.cpp.obj"
+C:\Users\B760M\AppData\Local\Programs\CLion\bin\mingw\bin\ranlib.exe libMemoryManagement-MemoryLayout-PointToSameValue-test-src-part.a

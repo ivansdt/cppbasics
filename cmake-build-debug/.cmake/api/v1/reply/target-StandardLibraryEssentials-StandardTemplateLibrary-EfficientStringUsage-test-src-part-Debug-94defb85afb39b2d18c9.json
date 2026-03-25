@@ -1,0 +1,107 @@
+{
+	"archive" : {},
+	"artifacts" : 
+	[
+		{
+			"path" : "StandardLibraryEssentials/StandardTemplateLibrary/EfficientStringUsage/libStandardLibraryEssentials-StandardTemplateLibrary-EfficientStringUsage-test-src-part.a"
+		}
+	],
+	"backtrace" : 2,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library",
+			"configure_test_target",
+			"target_compile_definitions"
+		],
+		"files" : 
+		[
+			"cmake/utils.cmake",
+			"StandardLibraryEssentials/StandardTemplateLibrary/EfficientStringUsage/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 20,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 39,
+				"parent" : 1
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 44,
+				"parent" : 1
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-g -std=gnu++20 -fdiagnostics-color=always"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 3,
+					"define" : "main=mainee9c2a01f546129e71d5b104e6b7c6f96856cb52"
+				}
+			],
+			"language" : "CXX",
+			"languageStandard" : 
+			{
+				"backtraces" : 
+				[
+					2
+				],
+				"standard" : "20"
+			},
+			"sourceIndexes" : 
+			[
+				0
+			]
+		}
+	],
+	"id" : "StandardLibraryEssentials-StandardTemplateLibrary-EfficientStringUsage-test-src-part::@47c80a99a3936e628288",
+	"name" : "StandardLibraryEssentials-StandardTemplateLibrary-EfficientStringUsage-test-src-part",
+	"nameOnDisk" : "libStandardLibraryEssentials-StandardTemplateLibrary-EfficientStringUsage-test-src-part.a",
+	"paths" : 
+	{
+		"build" : "StandardLibraryEssentials/StandardTemplateLibrary/EfficientStringUsage",
+		"source" : "StandardLibraryEssentials/StandardTemplateLibrary/EfficientStringUsage"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "StandardLibraryEssentials/StandardTemplateLibrary/EfficientStringUsage/src/task.cpp",
+			"sourceGroupIndex" : 0
+		}
+	],
+	"type" : "STATIC_LIBRARY"
+}

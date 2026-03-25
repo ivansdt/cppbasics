@@ -1,0 +1,2 @@
+C:\Users\B760M\AppData\Local\Programs\CLion\bin\mingw\bin\ar.exe qc libMemoryManagement-MemoryLayout-CopyArray-test-src-part.a "CMakeFiles/MemoryManagement-MemoryLayout-CopyArray-test-src-part.dir/src/task.cpp.obj"
+C:\Users\B760M\AppData\Local\Programs\CLion\bin\mingw\bin\ranlib.exe libMemoryManagement-MemoryLayout-CopyArray-test-src-part.a

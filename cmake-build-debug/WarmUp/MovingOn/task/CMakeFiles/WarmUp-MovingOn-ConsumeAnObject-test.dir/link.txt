@@ -1,0 +1,3 @@
+C:\Users\B760M\AppData\Local\Programs\CLion\bin\cmake\win\x64\bin\cmake.exe -E rm -f CMakeFiles\WarmUp-MovingOn-ConsumeAnObject-test.dir/objects.a
+C:\Users\B760M\AppData\Local\Programs\CLion\bin\mingw\bin\ar.exe qc CMakeFiles\WarmUp-MovingOn-ConsumeAnObject-test.dir/objects.a @CMakeFiles\WarmUp-MovingOn-ConsumeAnObject-test.dir\objects1.rsp
+C:\Users\B760M\AppData\Local\Programs\CLion\bin\mingw\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\WarmUp-MovingOn-ConsumeAnObject-test.dir/objects.a -Wl,--no-whole-archive -o WarmUp-MovingOn-ConsumeAnObject-test.exe -Wl,--out-implib,libWarmUp-MovingOn-ConsumeAnObject-test.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\WarmUp-MovingOn-ConsumeAnObject-test.dir\linkLibs.rsp

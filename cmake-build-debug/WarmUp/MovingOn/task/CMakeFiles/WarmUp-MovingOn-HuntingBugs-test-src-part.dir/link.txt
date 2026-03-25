@@ -1,0 +1,2 @@
+C:\Users\B760M\AppData\Local\Programs\CLion\bin\mingw\bin\ar.exe qc libWarmUp-MovingOn-HuntingBugs-test-src-part.a "CMakeFiles/WarmUp-MovingOn-HuntingBugs-test-src-part.dir/src/collision.cpp.obj" "CMakeFiles/WarmUp-MovingOn-HuntingBugs-test-src-part.dir/src/approaching.cpp.obj"
+C:\Users\B760M\AppData\Local\Programs\CLion\bin\mingw\bin\ranlib.exe libWarmUp-MovingOn-HuntingBugs-test-src-part.a

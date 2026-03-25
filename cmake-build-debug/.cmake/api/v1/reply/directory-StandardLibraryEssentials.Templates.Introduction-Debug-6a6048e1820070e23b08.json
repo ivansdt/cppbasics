@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "StandardLibraryEssentials/Templates/Introduction",
+		"source" : "StandardLibraryEssentials/Templates/Introduction"
+	}
+}

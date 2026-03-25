@@ -1,0 +1,107 @@
+{
+	"archive" : {},
+	"artifacts" : 
+	[
+		{
+			"path" : "StandardLibraryEssentials/StandardTemplateLibrary/IteratorIntroduction/libStandardLibraryEssentials-StandardTemplateLibrary-IteratorIntroduction-test-src-part.a"
+		}
+	],
+	"backtrace" : 2,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library",
+			"configure_test_target",
+			"target_compile_definitions"
+		],
+		"files" : 
+		[
+			"cmake/utils.cmake",
+			"StandardLibraryEssentials/StandardTemplateLibrary/IteratorIntroduction/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 20,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 39,
+				"parent" : 1
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 44,
+				"parent" : 1
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-g -std=gnu++14 -fdiagnostics-color=always"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 3,
+					"define" : "main=mainee9c2a01f546129e71d5b104e6b7c6f96856cb52"
+				}
+			],
+			"language" : "CXX",
+			"languageStandard" : 
+			{
+				"backtraces" : 
+				[
+					2
+				],
+				"standard" : "14"
+			},
+			"sourceIndexes" : 
+			[
+				0
+			]
+		}
+	],
+	"id" : "StandardLibraryEssentials-StandardTemplateLibrary-IteratorIntroduction-test-src-part::@6e4553c769adb4c01495",
+	"name" : "StandardLibraryEssentials-StandardTemplateLibrary-IteratorIntroduction-test-src-part",
+	"nameOnDisk" : "libStandardLibraryEssentials-StandardTemplateLibrary-IteratorIntroduction-test-src-part.a",
+	"paths" : 
+	{
+		"build" : "StandardLibraryEssentials/StandardTemplateLibrary/IteratorIntroduction",
+		"source" : "StandardLibraryEssentials/StandardTemplateLibrary/IteratorIntroduction"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "StandardLibraryEssentials/StandardTemplateLibrary/IteratorIntroduction/src/task.cpp",
+			"sourceGroupIndex" : 0
+		}
+	],
+	"type" : "STATIC_LIBRARY"
+}

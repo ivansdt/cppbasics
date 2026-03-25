@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "C:/Users/B760M/CLionProjects/C++ Basics/sfml/sfml-build/src/SFML",
+		"source" : "sfml/sfml-src/src/SFML"
+	}
+}

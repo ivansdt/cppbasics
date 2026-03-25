@@ -1,0 +1,24 @@
+
+# Consider dependencies only in project.
+set(CMAKE_DEPENDS_IN_PROJECT_ONLY OFF)
+
+# The set of languages for which implicit dependencies are needed:
+set(CMAKE_DEPENDS_LANGUAGES
+  )
+
+# The set of dependency files which are needed:
+set(CMAKE_DEPENDS_DEPENDENCY_FILES
+  "C:/Users/B760M/CLionProjects/C++ Basics/ObjectOrientedProgramming/MemoryOwnership/PlacementNew/src/animal.cpp" "ObjectOrientedProgramming/MemoryOwnership/PlacementNew/CMakeFiles/ObjectOrientedProgramming-MemoryOwnership-Placement_new-test-src-part.dir/src/animal.cpp.obj" "gcc" "ObjectOrientedProgramming/MemoryOwnership/PlacementNew/CMakeFiles/ObjectOrientedProgramming-MemoryOwnership-Placement_new-test-src-part.dir/src/animal.cpp.obj.d"
+  "C:/Users/B760M/CLionProjects/C++ Basics/ObjectOrientedProgramming/MemoryOwnership/PlacementNew/src/task.cpp" "ObjectOrientedProgramming/MemoryOwnership/PlacementNew/CMakeFiles/ObjectOrientedProgramming-MemoryOwnership-Placement_new-test-src-part.dir/src/task.cpp.obj" "gcc" "ObjectOrientedProgramming/MemoryOwnership/PlacementNew/CMakeFiles/ObjectOrientedProgramming-MemoryOwnership-Placement_new-test-src-part.dir/src/task.cpp.obj.d"
+  )
+
+# Targets to which this target links which contain Fortran sources.
+set(CMAKE_Fortran_TARGET_LINKED_INFO_FILES
+  )
+
+# Targets to which this target links which contain Fortran sources.
+set(CMAKE_Fortran_TARGET_FORWARD_LINKED_INFO_FILES
+  )
+
+# Fortran module output directory.
+set(CMAKE_Fortran_TARGET_MODULE_DIR "")

@@ -1,0 +1,2 @@
+WarmUp/Quiz/MaxInt/CMakeFiles/WarmUp-Quiz-MaxInt-run.dir/src/task.cpp.obj: \
+ C:\Users\B760M\CLionProjects\C++\ Basics\WarmUp\Quiz\MaxInt\src\task.cpp

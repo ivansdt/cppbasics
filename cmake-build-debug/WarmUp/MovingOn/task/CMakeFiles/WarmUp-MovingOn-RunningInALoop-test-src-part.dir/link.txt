@@ -1,0 +1,2 @@
+C:\Users\B760M\AppData\Local\Programs\CLion\bin\mingw\bin\ar.exe qc libWarmUp-MovingOn-RunningInALoop-test-src-part.a "CMakeFiles/WarmUp-MovingOn-RunningInALoop-test-src-part.dir/src/collision.cpp.obj" "CMakeFiles/WarmUp-MovingOn-RunningInALoop-test-src-part.dir/src/loop.cpp.obj"
+C:\Users\B760M\AppData\Local\Programs\CLion\bin\mingw\bin\ranlib.exe libWarmUp-MovingOn-RunningInALoop-test-src-part.a
