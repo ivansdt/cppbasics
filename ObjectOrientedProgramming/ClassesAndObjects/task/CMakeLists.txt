@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.25)
 
-project(ObjectOrientedProgramming-ClassesAndObjects-Introduction)
+project(ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading)
 
 set(SRC
         src/main.cpp
@@ -13,10 +13,18 @@ set(SRC
         src/operators.cpp src/utils.cpp
 )
 
+set(TASK
+        src/operators.cpp)
+
+set(TEST
+        test/test.cpp)
+
 add_executable(${PROJECT_NAME}-run ${SRC})
+
+configure_test_target(${PROJECT_NAME}-test "${SRC}" ${TEST})
 
 prepare_sfml_framework_lesson_task(
         "${CMAKE_CURRENT_SOURCE_DIR}/.."
         ${PROJECT_NAME}-run
-        ""
+        ${PROJECT_NAME}-test
 )

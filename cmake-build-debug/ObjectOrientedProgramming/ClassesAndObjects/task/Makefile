@@ -181,25 +181,54 @@ depend:
 .PHONY : depend
 
 # Convenience name for target.
-ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Introduction-run.dir/rule:
-	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Introduction-run.dir/rule
-.PHONY : ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Introduction-run.dir/rule
+ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir/rule:
+	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir/rule
+.PHONY : ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir/rule
 
 # Convenience name for target.
-ObjectOrientedProgramming-ClassesAndObjects-Introduction-run: ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Introduction-run.dir/rule
-.PHONY : ObjectOrientedProgramming-ClassesAndObjects-Introduction-run
+ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run: ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir/rule
+.PHONY : ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run
 
 # fast build rule for target.
-ObjectOrientedProgramming-ClassesAndObjects-Introduction-run/fast:
-	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-Introduction-run.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Introduction-run.dir/build
-.PHONY : ObjectOrientedProgramming-ClassesAndObjects-Introduction-run/fast
+ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run/fast:
+	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir/build
+.PHONY : ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run/fast
+
+# Convenience name for target.
+ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir/rule:
+	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir/rule
+.PHONY : ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir/rule
+
+# Convenience name for target.
+ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part: ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir/rule
+.PHONY : ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part
+
+# fast build rule for target.
+ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part/fast:
+	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir/build
+.PHONY : ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part/fast
+
+# Convenience name for target.
+ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test.dir/rule:
+	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test.dir/rule
+.PHONY : ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test.dir/rule
+
+# Convenience name for target.
+ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test: ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test.dir/rule
+.PHONY : ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test
+
+# fast build rule for target.
+ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test/fast:
+	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test.dir/build
+.PHONY : ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test/fast
 
 src/cgobject.obj: src/cgobject.cpp.obj
 .PHONY : src/cgobject.obj
 
 # target to build an object file
 src/cgobject.cpp.obj:
-	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-Introduction-run.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Introduction-run.dir/src/cgobject.cpp.obj
+	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir/src/cgobject.cpp.obj
+	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir/src/cgobject.cpp.obj
 .PHONY : src/cgobject.cpp.obj
 
 src/cgobject.i: src/cgobject.cpp.i
@@ -207,7 +236,8 @@ src/cgobject.i: src/cgobject.cpp.i
 
 # target to preprocess a source file
 src/cgobject.cpp.i:
-	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-Introduction-run.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Introduction-run.dir/src/cgobject.cpp.i
+	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir/src/cgobject.cpp.i
+	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir/src/cgobject.cpp.i
 .PHONY : src/cgobject.cpp.i
 
 src/cgobject.s: src/cgobject.cpp.s
@@ -215,7 +245,8 @@ src/cgobject.s: src/cgobject.cpp.s
 
 # target to generate assembly for a file
 src/cgobject.cpp.s:
-	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-Introduction-run.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Introduction-run.dir/src/cgobject.cpp.s
+	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir/src/cgobject.cpp.s
+	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir/src/cgobject.cpp.s
 .PHONY : src/cgobject.cpp.s
 
 src/collision.obj: src/collision.cpp.obj
@@ -223,7 +254,8 @@ src/collision.obj: src/collision.cpp.obj
 
 # target to build an object file
 src/collision.cpp.obj:
-	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-Introduction-run.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Introduction-run.dir/src/collision.cpp.obj
+	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir/src/collision.cpp.obj
+	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir/src/collision.cpp.obj
 .PHONY : src/collision.cpp.obj
 
 src/collision.i: src/collision.cpp.i
@@ -231,7 +263,8 @@ src/collision.i: src/collision.cpp.i
 
 # target to preprocess a source file
 src/collision.cpp.i:
-	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-Introduction-run.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Introduction-run.dir/src/collision.cpp.i
+	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir/src/collision.cpp.i
+	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir/src/collision.cpp.i
 .PHONY : src/collision.cpp.i
 
 src/collision.s: src/collision.cpp.s
@@ -239,7 +272,8 @@ src/collision.s: src/collision.cpp.s
 
 # target to generate assembly for a file
 src/collision.cpp.s:
-	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-Introduction-run.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Introduction-run.dir/src/collision.cpp.s
+	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir/src/collision.cpp.s
+	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir/src/collision.cpp.s
 .PHONY : src/collision.cpp.s
 
 src/consumable.obj: src/consumable.cpp.obj
@@ -247,7 +281,8 @@ src/consumable.obj: src/consumable.cpp.obj
 
 # target to build an object file
 src/consumable.cpp.obj:
-	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-Introduction-run.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Introduction-run.dir/src/consumable.cpp.obj
+	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir/src/consumable.cpp.obj
+	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir/src/consumable.cpp.obj
 .PHONY : src/consumable.cpp.obj
 
 src/consumable.i: src/consumable.cpp.i
@@ -255,7 +290,8 @@ src/consumable.i: src/consumable.cpp.i
 
 # target to preprocess a source file
 src/consumable.cpp.i:
-	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-Introduction-run.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Introduction-run.dir/src/consumable.cpp.i
+	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir/src/consumable.cpp.i
+	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir/src/consumable.cpp.i
 .PHONY : src/consumable.cpp.i
 
 src/consumable.s: src/consumable.cpp.s
@@ -263,7 +299,8 @@ src/consumable.s: src/consumable.cpp.s
 
 # target to generate assembly for a file
 src/consumable.cpp.s:
-	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-Introduction-run.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Introduction-run.dir/src/consumable.cpp.s
+	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir/src/consumable.cpp.s
+	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir/src/consumable.cpp.s
 .PHONY : src/consumable.cpp.s
 
 src/direction.obj: src/direction.cpp.obj
@@ -271,7 +308,8 @@ src/direction.obj: src/direction.cpp.obj
 
 # target to build an object file
 src/direction.cpp.obj:
-	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-Introduction-run.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Introduction-run.dir/src/direction.cpp.obj
+	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir/src/direction.cpp.obj
+	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir/src/direction.cpp.obj
 .PHONY : src/direction.cpp.obj
 
 src/direction.i: src/direction.cpp.i
@@ -279,7 +317,8 @@ src/direction.i: src/direction.cpp.i
 
 # target to preprocess a source file
 src/direction.cpp.i:
-	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-Introduction-run.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Introduction-run.dir/src/direction.cpp.i
+	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir/src/direction.cpp.i
+	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir/src/direction.cpp.i
 .PHONY : src/direction.cpp.i
 
 src/direction.s: src/direction.cpp.s
@@ -287,7 +326,8 @@ src/direction.s: src/direction.cpp.s
 
 # target to generate assembly for a file
 src/direction.cpp.s:
-	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-Introduction-run.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Introduction-run.dir/src/direction.cpp.s
+	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir/src/direction.cpp.s
+	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir/src/direction.cpp.s
 .PHONY : src/direction.cpp.s
 
 src/dynscene.obj: src/dynscene.cpp.obj
@@ -295,7 +335,8 @@ src/dynscene.obj: src/dynscene.cpp.obj
 
 # target to build an object file
 src/dynscene.cpp.obj:
-	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-Introduction-run.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Introduction-run.dir/src/dynscene.cpp.obj
+	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir/src/dynscene.cpp.obj
+	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir/src/dynscene.cpp.obj
 .PHONY : src/dynscene.cpp.obj
 
 src/dynscene.i: src/dynscene.cpp.i
@@ -303,7 +344,8 @@ src/dynscene.i: src/dynscene.cpp.i
 
 # target to preprocess a source file
 src/dynscene.cpp.i:
-	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-Introduction-run.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Introduction-run.dir/src/dynscene.cpp.i
+	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir/src/dynscene.cpp.i
+	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir/src/dynscene.cpp.i
 .PHONY : src/dynscene.cpp.i
 
 src/dynscene.s: src/dynscene.cpp.s
@@ -311,7 +353,8 @@ src/dynscene.s: src/dynscene.cpp.s
 
 # target to generate assembly for a file
 src/dynscene.cpp.s:
-	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-Introduction-run.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Introduction-run.dir/src/dynscene.cpp.s
+	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir/src/dynscene.cpp.s
+	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir/src/dynscene.cpp.s
 .PHONY : src/dynscene.cpp.s
 
 src/enemy.obj: src/enemy.cpp.obj
@@ -319,7 +362,8 @@ src/enemy.obj: src/enemy.cpp.obj
 
 # target to build an object file
 src/enemy.cpp.obj:
-	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-Introduction-run.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Introduction-run.dir/src/enemy.cpp.obj
+	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir/src/enemy.cpp.obj
+	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir/src/enemy.cpp.obj
 .PHONY : src/enemy.cpp.obj
 
 src/enemy.i: src/enemy.cpp.i
@@ -327,7 +371,8 @@ src/enemy.i: src/enemy.cpp.i
 
 # target to preprocess a source file
 src/enemy.cpp.i:
-	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-Introduction-run.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Introduction-run.dir/src/enemy.cpp.i
+	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir/src/enemy.cpp.i
+	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir/src/enemy.cpp.i
 .PHONY : src/enemy.cpp.i
 
 src/enemy.s: src/enemy.cpp.s
@@ -335,7 +380,8 @@ src/enemy.s: src/enemy.cpp.s
 
 # target to generate assembly for a file
 src/enemy.cpp.s:
-	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-Introduction-run.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Introduction-run.dir/src/enemy.cpp.s
+	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir/src/enemy.cpp.s
+	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir/src/enemy.cpp.s
 .PHONY : src/enemy.cpp.s
 
 src/engine.obj: src/engine.cpp.obj
@@ -343,7 +389,8 @@ src/engine.obj: src/engine.cpp.obj
 
 # target to build an object file
 src/engine.cpp.obj:
-	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-Introduction-run.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Introduction-run.dir/src/engine.cpp.obj
+	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir/src/engine.cpp.obj
+	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir/src/engine.cpp.obj
 .PHONY : src/engine.cpp.obj
 
 src/engine.i: src/engine.cpp.i
@@ -351,7 +398,8 @@ src/engine.i: src/engine.cpp.i
 
 # target to preprocess a source file
 src/engine.cpp.i:
-	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-Introduction-run.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Introduction-run.dir/src/engine.cpp.i
+	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir/src/engine.cpp.i
+	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir/src/engine.cpp.i
 .PHONY : src/engine.cpp.i
 
 src/engine.s: src/engine.cpp.s
@@ -359,7 +407,8 @@ src/engine.s: src/engine.cpp.s
 
 # target to generate assembly for a file
 src/engine.cpp.s:
-	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-Introduction-run.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Introduction-run.dir/src/engine.cpp.s
+	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir/src/engine.cpp.s
+	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir/src/engine.cpp.s
 .PHONY : src/engine.cpp.s
 
 src/gobject.obj: src/gobject.cpp.obj
@@ -367,7 +416,8 @@ src/gobject.obj: src/gobject.cpp.obj
 
 # target to build an object file
 src/gobject.cpp.obj:
-	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-Introduction-run.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Introduction-run.dir/src/gobject.cpp.obj
+	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir/src/gobject.cpp.obj
+	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir/src/gobject.cpp.obj
 .PHONY : src/gobject.cpp.obj
 
 src/gobject.i: src/gobject.cpp.i
@@ -375,7 +425,8 @@ src/gobject.i: src/gobject.cpp.i
 
 # target to preprocess a source file
 src/gobject.cpp.i:
-	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-Introduction-run.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Introduction-run.dir/src/gobject.cpp.i
+	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir/src/gobject.cpp.i
+	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir/src/gobject.cpp.i
 .PHONY : src/gobject.cpp.i
 
 src/gobject.s: src/gobject.cpp.s
@@ -383,7 +434,8 @@ src/gobject.s: src/gobject.cpp.s
 
 # target to generate assembly for a file
 src/gobject.cpp.s:
-	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-Introduction-run.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Introduction-run.dir/src/gobject.cpp.s
+	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir/src/gobject.cpp.s
+	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir/src/gobject.cpp.s
 .PHONY : src/gobject.cpp.s
 
 src/gobjectlist.obj: src/gobjectlist.cpp.obj
@@ -391,7 +443,8 @@ src/gobjectlist.obj: src/gobjectlist.cpp.obj
 
 # target to build an object file
 src/gobjectlist.cpp.obj:
-	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-Introduction-run.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Introduction-run.dir/src/gobjectlist.cpp.obj
+	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir/src/gobjectlist.cpp.obj
+	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir/src/gobjectlist.cpp.obj
 .PHONY : src/gobjectlist.cpp.obj
 
 src/gobjectlist.i: src/gobjectlist.cpp.i
@@ -399,7 +452,8 @@ src/gobjectlist.i: src/gobjectlist.cpp.i
 
 # target to preprocess a source file
 src/gobjectlist.cpp.i:
-	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-Introduction-run.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Introduction-run.dir/src/gobjectlist.cpp.i
+	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir/src/gobjectlist.cpp.i
+	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir/src/gobjectlist.cpp.i
 .PHONY : src/gobjectlist.cpp.i
 
 src/gobjectlist.s: src/gobjectlist.cpp.s
@@ -407,7 +461,8 @@ src/gobjectlist.s: src/gobjectlist.cpp.s
 
 # target to generate assembly for a file
 src/gobjectlist.cpp.s:
-	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-Introduction-run.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Introduction-run.dir/src/gobjectlist.cpp.s
+	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir/src/gobjectlist.cpp.s
+	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir/src/gobjectlist.cpp.s
 .PHONY : src/gobjectlist.cpp.s
 
 src/leaderboard.obj: src/leaderboard.cpp.obj
@@ -415,7 +470,8 @@ src/leaderboard.obj: src/leaderboard.cpp.obj
 
 # target to build an object file
 src/leaderboard.cpp.obj:
-	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-Introduction-run.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Introduction-run.dir/src/leaderboard.cpp.obj
+	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir/src/leaderboard.cpp.obj
+	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir/src/leaderboard.cpp.obj
 .PHONY : src/leaderboard.cpp.obj
 
 src/leaderboard.i: src/leaderboard.cpp.i
@@ -423,7 +479,8 @@ src/leaderboard.i: src/leaderboard.cpp.i
 
 # target to preprocess a source file
 src/leaderboard.cpp.i:
-	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-Introduction-run.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Introduction-run.dir/src/leaderboard.cpp.i
+	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir/src/leaderboard.cpp.i
+	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir/src/leaderboard.cpp.i
 .PHONY : src/leaderboard.cpp.i
 
 src/leaderboard.s: src/leaderboard.cpp.s
@@ -431,7 +488,8 @@ src/leaderboard.s: src/leaderboard.cpp.s
 
 # target to generate assembly for a file
 src/leaderboard.cpp.s:
-	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-Introduction-run.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Introduction-run.dir/src/leaderboard.cpp.s
+	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir/src/leaderboard.cpp.s
+	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir/src/leaderboard.cpp.s
 .PHONY : src/leaderboard.cpp.s
 
 src/leaderboardscene.obj: src/leaderboardscene.cpp.obj
@@ -439,7 +497,8 @@ src/leaderboardscene.obj: src/leaderboardscene.cpp.obj
 
 # target to build an object file
 src/leaderboardscene.cpp.obj:
-	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-Introduction-run.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Introduction-run.dir/src/leaderboardscene.cpp.obj
+	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir/src/leaderboardscene.cpp.obj
+	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir/src/leaderboardscene.cpp.obj
 .PHONY : src/leaderboardscene.cpp.obj
 
 src/leaderboardscene.i: src/leaderboardscene.cpp.i
@@ -447,7 +506,8 @@ src/leaderboardscene.i: src/leaderboardscene.cpp.i
 
 # target to preprocess a source file
 src/leaderboardscene.cpp.i:
-	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-Introduction-run.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Introduction-run.dir/src/leaderboardscene.cpp.i
+	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir/src/leaderboardscene.cpp.i
+	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir/src/leaderboardscene.cpp.i
 .PHONY : src/leaderboardscene.cpp.i
 
 src/leaderboardscene.s: src/leaderboardscene.cpp.s
@@ -455,7 +515,8 @@ src/leaderboardscene.s: src/leaderboardscene.cpp.s
 
 # target to generate assembly for a file
 src/leaderboardscene.cpp.s:
-	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-Introduction-run.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Introduction-run.dir/src/leaderboardscene.cpp.s
+	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir/src/leaderboardscene.cpp.s
+	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir/src/leaderboardscene.cpp.s
 .PHONY : src/leaderboardscene.cpp.s
 
 src/main.obj: src/main.cpp.obj
@@ -463,7 +524,8 @@ src/main.obj: src/main.cpp.obj
 
 # target to build an object file
 src/main.cpp.obj:
-	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-Introduction-run.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Introduction-run.dir/src/main.cpp.obj
+	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir/src/main.cpp.obj
+	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir/src/main.cpp.obj
 .PHONY : src/main.cpp.obj
 
 src/main.i: src/main.cpp.i
@@ -471,7 +533,8 @@ src/main.i: src/main.cpp.i
 
 # target to preprocess a source file
 src/main.cpp.i:
-	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-Introduction-run.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Introduction-run.dir/src/main.cpp.i
+	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir/src/main.cpp.i
+	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir/src/main.cpp.i
 .PHONY : src/main.cpp.i
 
 src/main.s: src/main.cpp.s
@@ -479,7 +542,8 @@ src/main.s: src/main.cpp.s
 
 # target to generate assembly for a file
 src/main.cpp.s:
-	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-Introduction-run.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Introduction-run.dir/src/main.cpp.s
+	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir/src/main.cpp.s
+	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir/src/main.cpp.s
 .PHONY : src/main.cpp.s
 
 src/operators.obj: src/operators.cpp.obj
@@ -487,7 +551,8 @@ src/operators.obj: src/operators.cpp.obj
 
 # target to build an object file
 src/operators.cpp.obj:
-	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-Introduction-run.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Introduction-run.dir/src/operators.cpp.obj
+	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir/src/operators.cpp.obj
+	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir/src/operators.cpp.obj
 .PHONY : src/operators.cpp.obj
 
 src/operators.i: src/operators.cpp.i
@@ -495,7 +560,8 @@ src/operators.i: src/operators.cpp.i
 
 # target to preprocess a source file
 src/operators.cpp.i:
-	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-Introduction-run.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Introduction-run.dir/src/operators.cpp.i
+	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir/src/operators.cpp.i
+	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir/src/operators.cpp.i
 .PHONY : src/operators.cpp.i
 
 src/operators.s: src/operators.cpp.s
@@ -503,7 +569,8 @@ src/operators.s: src/operators.cpp.s
 
 # target to generate assembly for a file
 src/operators.cpp.s:
-	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-Introduction-run.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Introduction-run.dir/src/operators.cpp.s
+	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir/src/operators.cpp.s
+	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir/src/operators.cpp.s
 .PHONY : src/operators.cpp.s
 
 src/player.obj: src/player.cpp.obj
@@ -511,7 +578,8 @@ src/player.obj: src/player.cpp.obj
 
 # target to build an object file
 src/player.cpp.obj:
-	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-Introduction-run.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Introduction-run.dir/src/player.cpp.obj
+	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir/src/player.cpp.obj
+	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir/src/player.cpp.obj
 .PHONY : src/player.cpp.obj
 
 src/player.i: src/player.cpp.i
@@ -519,7 +587,8 @@ src/player.i: src/player.cpp.i
 
 # target to preprocess a source file
 src/player.cpp.i:
-	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-Introduction-run.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Introduction-run.dir/src/player.cpp.i
+	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir/src/player.cpp.i
+	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir/src/player.cpp.i
 .PHONY : src/player.cpp.i
 
 src/player.s: src/player.cpp.s
@@ -527,7 +596,8 @@ src/player.s: src/player.cpp.s
 
 # target to generate assembly for a file
 src/player.cpp.s:
-	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-Introduction-run.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Introduction-run.dir/src/player.cpp.s
+	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir/src/player.cpp.s
+	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir/src/player.cpp.s
 .PHONY : src/player.cpp.s
 
 src/point.obj: src/point.cpp.obj
@@ -535,7 +605,8 @@ src/point.obj: src/point.cpp.obj
 
 # target to build an object file
 src/point.cpp.obj:
-	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-Introduction-run.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Introduction-run.dir/src/point.cpp.obj
+	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir/src/point.cpp.obj
+	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir/src/point.cpp.obj
 .PHONY : src/point.cpp.obj
 
 src/point.i: src/point.cpp.i
@@ -543,7 +614,8 @@ src/point.i: src/point.cpp.i
 
 # target to preprocess a source file
 src/point.cpp.i:
-	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-Introduction-run.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Introduction-run.dir/src/point.cpp.i
+	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir/src/point.cpp.i
+	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir/src/point.cpp.i
 .PHONY : src/point.cpp.i
 
 src/point.s: src/point.cpp.s
@@ -551,7 +623,8 @@ src/point.s: src/point.cpp.s
 
 # target to generate assembly for a file
 src/point.cpp.s:
-	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-Introduction-run.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Introduction-run.dir/src/point.cpp.s
+	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir/src/point.cpp.s
+	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir/src/point.cpp.s
 .PHONY : src/point.cpp.s
 
 src/rectangle.obj: src/rectangle.cpp.obj
@@ -559,7 +632,8 @@ src/rectangle.obj: src/rectangle.cpp.obj
 
 # target to build an object file
 src/rectangle.cpp.obj:
-	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-Introduction-run.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Introduction-run.dir/src/rectangle.cpp.obj
+	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir/src/rectangle.cpp.obj
+	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir/src/rectangle.cpp.obj
 .PHONY : src/rectangle.cpp.obj
 
 src/rectangle.i: src/rectangle.cpp.i
@@ -567,7 +641,8 @@ src/rectangle.i: src/rectangle.cpp.i
 
 # target to preprocess a source file
 src/rectangle.cpp.i:
-	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-Introduction-run.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Introduction-run.dir/src/rectangle.cpp.i
+	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir/src/rectangle.cpp.i
+	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir/src/rectangle.cpp.i
 .PHONY : src/rectangle.cpp.i
 
 src/rectangle.s: src/rectangle.cpp.s
@@ -575,7 +650,8 @@ src/rectangle.s: src/rectangle.cpp.s
 
 # target to generate assembly for a file
 src/rectangle.cpp.s:
-	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-Introduction-run.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Introduction-run.dir/src/rectangle.cpp.s
+	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir/src/rectangle.cpp.s
+	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir/src/rectangle.cpp.s
 .PHONY : src/rectangle.cpp.s
 
 src/scene.obj: src/scene.cpp.obj
@@ -583,7 +659,8 @@ src/scene.obj: src/scene.cpp.obj
 
 # target to build an object file
 src/scene.cpp.obj:
-	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-Introduction-run.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Introduction-run.dir/src/scene.cpp.obj
+	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir/src/scene.cpp.obj
+	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir/src/scene.cpp.obj
 .PHONY : src/scene.cpp.obj
 
 src/scene.i: src/scene.cpp.i
@@ -591,7 +668,8 @@ src/scene.i: src/scene.cpp.i
 
 # target to preprocess a source file
 src/scene.cpp.i:
-	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-Introduction-run.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Introduction-run.dir/src/scene.cpp.i
+	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir/src/scene.cpp.i
+	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir/src/scene.cpp.i
 .PHONY : src/scene.cpp.i
 
 src/scene.s: src/scene.cpp.s
@@ -599,7 +677,8 @@ src/scene.s: src/scene.cpp.s
 
 # target to generate assembly for a file
 src/scene.cpp.s:
-	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-Introduction-run.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Introduction-run.dir/src/scene.cpp.s
+	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir/src/scene.cpp.s
+	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir/src/scene.cpp.s
 .PHONY : src/scene.cpp.s
 
 src/scenes.obj: src/scenes.cpp.obj
@@ -607,7 +686,8 @@ src/scenes.obj: src/scenes.cpp.obj
 
 # target to build an object file
 src/scenes.cpp.obj:
-	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-Introduction-run.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Introduction-run.dir/src/scenes.cpp.obj
+	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir/src/scenes.cpp.obj
+	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir/src/scenes.cpp.obj
 .PHONY : src/scenes.cpp.obj
 
 src/scenes.i: src/scenes.cpp.i
@@ -615,7 +695,8 @@ src/scenes.i: src/scenes.cpp.i
 
 # target to preprocess a source file
 src/scenes.cpp.i:
-	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-Introduction-run.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Introduction-run.dir/src/scenes.cpp.i
+	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir/src/scenes.cpp.i
+	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir/src/scenes.cpp.i
 .PHONY : src/scenes.cpp.i
 
 src/scenes.s: src/scenes.cpp.s
@@ -623,7 +704,8 @@ src/scenes.s: src/scenes.cpp.s
 
 # target to generate assembly for a file
 src/scenes.cpp.s:
-	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-Introduction-run.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Introduction-run.dir/src/scenes.cpp.s
+	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir/src/scenes.cpp.s
+	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir/src/scenes.cpp.s
 .PHONY : src/scenes.cpp.s
 
 src/statscene.obj: src/statscene.cpp.obj
@@ -631,7 +713,8 @@ src/statscene.obj: src/statscene.cpp.obj
 
 # target to build an object file
 src/statscene.cpp.obj:
-	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-Introduction-run.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Introduction-run.dir/src/statscene.cpp.obj
+	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir/src/statscene.cpp.obj
+	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir/src/statscene.cpp.obj
 .PHONY : src/statscene.cpp.obj
 
 src/statscene.i: src/statscene.cpp.i
@@ -639,7 +722,8 @@ src/statscene.i: src/statscene.cpp.i
 
 # target to preprocess a source file
 src/statscene.cpp.i:
-	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-Introduction-run.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Introduction-run.dir/src/statscene.cpp.i
+	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir/src/statscene.cpp.i
+	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir/src/statscene.cpp.i
 .PHONY : src/statscene.cpp.i
 
 src/statscene.s: src/statscene.cpp.s
@@ -647,7 +731,8 @@ src/statscene.s: src/statscene.cpp.s
 
 # target to generate assembly for a file
 src/statscene.cpp.s:
-	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-Introduction-run.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Introduction-run.dir/src/statscene.cpp.s
+	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir/src/statscene.cpp.s
+	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir/src/statscene.cpp.s
 .PHONY : src/statscene.cpp.s
 
 src/textures.obj: src/textures.cpp.obj
@@ -655,7 +740,8 @@ src/textures.obj: src/textures.cpp.obj
 
 # target to build an object file
 src/textures.cpp.obj:
-	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-Introduction-run.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Introduction-run.dir/src/textures.cpp.obj
+	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir/src/textures.cpp.obj
+	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir/src/textures.cpp.obj
 .PHONY : src/textures.cpp.obj
 
 src/textures.i: src/textures.cpp.i
@@ -663,7 +749,8 @@ src/textures.i: src/textures.cpp.i
 
 # target to preprocess a source file
 src/textures.cpp.i:
-	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-Introduction-run.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Introduction-run.dir/src/textures.cpp.i
+	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir/src/textures.cpp.i
+	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir/src/textures.cpp.i
 .PHONY : src/textures.cpp.i
 
 src/textures.s: src/textures.cpp.s
@@ -671,7 +758,8 @@ src/textures.s: src/textures.cpp.s
 
 # target to generate assembly for a file
 src/textures.cpp.s:
-	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-Introduction-run.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Introduction-run.dir/src/textures.cpp.s
+	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir/src/textures.cpp.s
+	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir/src/textures.cpp.s
 .PHONY : src/textures.cpp.s
 
 src/utils.obj: src/utils.cpp.obj
@@ -679,7 +767,8 @@ src/utils.obj: src/utils.cpp.obj
 
 # target to build an object file
 src/utils.cpp.obj:
-	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-Introduction-run.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Introduction-run.dir/src/utils.cpp.obj
+	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir/src/utils.cpp.obj
+	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir/src/utils.cpp.obj
 .PHONY : src/utils.cpp.obj
 
 src/utils.i: src/utils.cpp.i
@@ -687,7 +776,8 @@ src/utils.i: src/utils.cpp.i
 
 # target to preprocess a source file
 src/utils.cpp.i:
-	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-Introduction-run.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Introduction-run.dir/src/utils.cpp.i
+	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir/src/utils.cpp.i
+	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir/src/utils.cpp.i
 .PHONY : src/utils.cpp.i
 
 src/utils.s: src/utils.cpp.s
@@ -695,8 +785,33 @@ src/utils.s: src/utils.cpp.s
 
 # target to generate assembly for a file
 src/utils.cpp.s:
-	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-Introduction-run.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Introduction-run.dir/src/utils.cpp.s
+	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir/src/utils.cpp.s
+	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir/src/utils.cpp.s
 .PHONY : src/utils.cpp.s
+
+test/test.obj: test/test.cpp.obj
+.PHONY : test/test.obj
+
+# target to build an object file
+test/test.cpp.obj:
+	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test.dir/test/test.cpp.obj
+.PHONY : test/test.cpp.obj
+
+test/test.i: test/test.cpp.i
+.PHONY : test/test.i
+
+# target to preprocess a source file
+test/test.cpp.i:
+	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test.dir/test/test.cpp.i
+.PHONY : test/test.cpp.i
+
+test/test.s: test/test.cpp.s
+.PHONY : test/test.s
+
+# target to generate assembly for a file
+test/test.cpp.s:
+	cd /d C:\Users\B760M\CLIONP~1\C__BAS~1\CMAKE-~1 && $(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test.dir/test/test.cpp.s
+.PHONY : test/test.cpp.s
 
 # Help Target
 help:
@@ -712,7 +827,9 @@ help:
 	@echo ... package
 	@echo ... package_source
 	@echo ... rebuild_cache
-	@echo ... ObjectOrientedProgramming-ClassesAndObjects-Introduction-run
+	@echo ... ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run
+	@echo ... ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test
+	@echo ... ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part
 	@echo ... src/cgobject.obj
 	@echo ... src/cgobject.i
 	@echo ... src/cgobject.s
@@ -776,6 +893,9 @@ help:
 	@echo ... src/utils.obj
 	@echo ... src/utils.i
 	@echo ... src/utils.s
+	@echo ... test/test.obj
+	@echo ... test/test.i
+	@echo ... test/test.s
 .PHONY : help
 
 

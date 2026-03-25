@@ -974,17 +974,43 @@ MemoryManagement-TypeCastsAndCStrings-TypeCastsQuestion-run/fast:
 .PHONY : MemoryManagement-TypeCastsAndCStrings-TypeCastsQuestion-run/fast
 
 #=============================================================================
-# Target rules for targets named ObjectOrientedProgramming-ClassesAndObjects-Introduction-run
+# Target rules for targets named ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run
 
 # Build rule for target.
-ObjectOrientedProgramming-ClassesAndObjects-Introduction-run: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 ObjectOrientedProgramming-ClassesAndObjects-Introduction-run
-.PHONY : ObjectOrientedProgramming-ClassesAndObjects-Introduction-run
+ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run
+.PHONY : ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run
 
 # fast build rule for target.
-ObjectOrientedProgramming-ClassesAndObjects-Introduction-run/fast:
-	$(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-Introduction-run.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Introduction-run.dir/build
-.PHONY : ObjectOrientedProgramming-ClassesAndObjects-Introduction-run/fast
+ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run/fast:
+	$(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run.dir/build
+.PHONY : ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run/fast
+
+#=============================================================================
+# Target rules for targets named ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part
+
+# Build rule for target.
+ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part
+.PHONY : ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part
+
+# fast build rule for target.
+ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part/fast:
+	$(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part.dir/build
+.PHONY : ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part/fast
+
+#=============================================================================
+# Target rules for targets named ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test
+
+# Build rule for target.
+ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test
+.PHONY : ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test
+
+# fast build rule for target.
+ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test/fast:
+	$(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test.dir/build
+.PHONY : ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test/fast
 
 #=============================================================================
 # Target rules for targets named ObjectOrientedProgramming-MemoryOwnership-CopyConstructor-run
@@ -2066,7 +2092,9 @@ help:
 	@echo ... MemoryManagement-TypeCastsAndCStrings-CppCast-run
 	@echo ... MemoryManagement-TypeCastsAndCStrings-Survey-run
 	@echo ... MemoryManagement-TypeCastsAndCStrings-TypeCastsQuestion-run
-	@echo ... ObjectOrientedProgramming-ClassesAndObjects-Introduction-run
+	@echo ... ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-run
+	@echo ... ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test
+	@echo ... ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading-test-src-part
 	@echo ... ObjectOrientedProgramming-MemoryOwnership-CopyConstructor-run
 	@echo ... ObjectOrientedProgramming-MemoryOwnership-Introduction-run
 	@echo ... ObjectOrientedProgramming-MemoryOwnership-MoveSemantics-run

@@ -59,6 +59,6 @@ CMake Deprecation Warning at sfml/sfml-src/CMakeLists.txt:1 (cmake_minimum_requi
   to work with policies introduced by <max> or earlier.
 
 
--- Configuring done (1.9s)
--- Generating done (3.9s)
+-- Configuring done (1.8s)
+-- Generating done (3.3s)
 -- Build files have been written to: C:/Users/B760M/CLionProjects/C++ Basics/cmake-build-debug
