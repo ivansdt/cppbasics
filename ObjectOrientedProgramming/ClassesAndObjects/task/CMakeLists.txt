@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.25)
 
-project(ObjectOrientedProgramming-ClassesAndObjects-Polymorphism)
+project(ObjectOrientedProgramming-ClassesAndObjects-Encapsulation)
 
 set(SRC
         src/main.cpp

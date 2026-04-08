@@ -15,11 +15,12 @@ Rectangle Scene::getBoundingBox() const {
 }
 
 void Scene::setObjectPosition(GameObject& object, Point2D position) {
-    // TODO: write your solution here
+    object.setPosition(position);
+    fitInto(object);
 }
 
 void Scene::move(GameObject &object, Point2D vector) {
-    // TODO: write your solution here
+    setObjectPosition(object, object.getPosition() + vector);
 }
 
 void Scene::move(GameObject& object, sf::Time delta) {

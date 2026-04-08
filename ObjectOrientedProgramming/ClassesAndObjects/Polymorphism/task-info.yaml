@@ -71,9 +71,8 @@ files:
   - name: src/leaderboardscene.cpp
     visible: false
     learner_created: false
-status: Unchecked
+status: Failed
 feedback:
-  message: "No tests have run. For more information, see <a href=\"https://plugins.jetbrains.com/plugin/10081-jetbrains-academy/docs/troubleshooting-guide.html#no_tests_have_run\"\
-    >the Troubleshooting guide</a>"
-  time: "Wed, 18 Mar 2026 16:51:24 UTC"
+  message: Execution failed
+  time: "Wed, 08 Apr 2026 17:49:27 UTC"
 record: 18

@@ -974,43 +974,43 @@ MemoryManagement-TypeCastsAndCStrings-TypeCastsQuestion-run/fast:
 .PHONY : MemoryManagement-TypeCastsAndCStrings-TypeCastsQuestion-run/fast
 
 #=============================================================================
-# Target rules for targets named ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-run
+# Target rules for targets named ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-run
 
 # Build rule for target.
-ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-run: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-run
-.PHONY : ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-run
+ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-run: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-run
+.PHONY : ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-run
 
 # fast build rule for target.
-ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-run/fast:
-	$(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-run.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-run.dir/build
-.PHONY : ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-run/fast
+ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-run/fast:
+	$(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-run.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-run.dir/build
+.PHONY : ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-run/fast
 
 #=============================================================================
-# Target rules for targets named ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test-src-part
+# Target rules for targets named ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test-src-part
 
 # Build rule for target.
-ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test-src-part: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test-src-part
-.PHONY : ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test-src-part
+ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test-src-part: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test-src-part
+.PHONY : ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test-src-part
 
 # fast build rule for target.
-ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test-src-part/fast:
-	$(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test-src-part.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test-src-part.dir/build
-.PHONY : ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test-src-part/fast
+ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test-src-part/fast:
+	$(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test-src-part.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test-src-part.dir/build
+.PHONY : ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test-src-part/fast
 
 #=============================================================================
-# Target rules for targets named ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test
+# Target rules for targets named ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test
 
 # Build rule for target.
-ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test
-.PHONY : ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test
+ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test
+.PHONY : ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test
 
 # fast build rule for target.
-ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test/fast:
-	$(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test.dir/build
-.PHONY : ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test/fast
+ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test/fast:
+	$(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test.dir/build
+.PHONY : ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test/fast
 
 #=============================================================================
 # Target rules for targets named ObjectOrientedProgramming-MemoryOwnership-CopyConstructor-run
@@ -2092,9 +2092,9 @@ help:
 	@echo ... MemoryManagement-TypeCastsAndCStrings-CppCast-run
 	@echo ... MemoryManagement-TypeCastsAndCStrings-Survey-run
 	@echo ... MemoryManagement-TypeCastsAndCStrings-TypeCastsQuestion-run
-	@echo ... ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-run
-	@echo ... ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test
-	@echo ... ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test-src-part
+	@echo ... ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-run
+	@echo ... ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test
+	@echo ... ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test-src-part
 	@echo ... ObjectOrientedProgramming-MemoryOwnership-CopyConstructor-run
 	@echo ... ObjectOrientedProgramming-MemoryOwnership-Introduction-run
 	@echo ... ObjectOrientedProgramming-MemoryOwnership-MoveSemantics-run

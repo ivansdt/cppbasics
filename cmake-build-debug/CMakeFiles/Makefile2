@@ -1070,15 +1070,15 @@ MemoryManagement/TypeCastsAndCStrings/TypeCastsQuestion/clean: MemoryManagement/
 # Directory level rules for directory ObjectOrientedProgramming/ClassesAndObjects/task
 
 # Recursive "all" directory target.
-ObjectOrientedProgramming/ClassesAndObjects/task/all: ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-run.dir/all
-ObjectOrientedProgramming/ClassesAndObjects/task/all: ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test-src-part.dir/all
-ObjectOrientedProgramming/ClassesAndObjects/task/all: ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test.dir/all
+ObjectOrientedProgramming/ClassesAndObjects/task/all: ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-run.dir/all
+ObjectOrientedProgramming/ClassesAndObjects/task/all: ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test-src-part.dir/all
+ObjectOrientedProgramming/ClassesAndObjects/task/all: ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test.dir/all
 .PHONY : ObjectOrientedProgramming/ClassesAndObjects/task/all
 
 # Recursive "codegen" directory target.
-ObjectOrientedProgramming/ClassesAndObjects/task/codegen: ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-run.dir/codegen
-ObjectOrientedProgramming/ClassesAndObjects/task/codegen: ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test-src-part.dir/codegen
-ObjectOrientedProgramming/ClassesAndObjects/task/codegen: ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test.dir/codegen
+ObjectOrientedProgramming/ClassesAndObjects/task/codegen: ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-run.dir/codegen
+ObjectOrientedProgramming/ClassesAndObjects/task/codegen: ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test-src-part.dir/codegen
+ObjectOrientedProgramming/ClassesAndObjects/task/codegen: ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test.dir/codegen
 .PHONY : ObjectOrientedProgramming/ClassesAndObjects/task/codegen
 
 # Recursive "preinstall" directory target.
@@ -1086,9 +1086,9 @@ ObjectOrientedProgramming/ClassesAndObjects/task/preinstall:
 .PHONY : ObjectOrientedProgramming/ClassesAndObjects/task/preinstall
 
 # Recursive "clean" directory target.
-ObjectOrientedProgramming/ClassesAndObjects/task/clean: ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-run.dir/clean
-ObjectOrientedProgramming/ClassesAndObjects/task/clean: ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test-src-part.dir/clean
-ObjectOrientedProgramming/ClassesAndObjects/task/clean: ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test.dir/clean
+ObjectOrientedProgramming/ClassesAndObjects/task/clean: ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-run.dir/clean
+ObjectOrientedProgramming/ClassesAndObjects/task/clean: ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test-src-part.dir/clean
+ObjectOrientedProgramming/ClassesAndObjects/task/clean: ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test.dir/clean
 .PHONY : ObjectOrientedProgramming/ClassesAndObjects/task/clean
 
 #=============================================================================
@@ -2785,8 +2785,8 @@ MemoryManagement/ConstAndReferences/SwapAgain/CMakeFiles/MemoryManagement-ConstA
 # Target rules for target MemoryManagement/ConstAndReferences/SwapAgain/CMakeFiles/MemoryManagement-ConstAndReferences-SwapAgain-test.dir
 
 # All Build rule for target.
-MemoryManagement/ConstAndReferences/SwapAgain/CMakeFiles/MemoryManagement-ConstAndReferences-SwapAgain-test.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/test-framework/googletest-build/googletest/CMakeFiles/gtest.dir/all
 MemoryManagement/ConstAndReferences/SwapAgain/CMakeFiles/MemoryManagement-ConstAndReferences-SwapAgain-test.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/test-framework/googletest-build/googletest/CMakeFiles/gtest_main.dir/all
+MemoryManagement/ConstAndReferences/SwapAgain/CMakeFiles/MemoryManagement-ConstAndReferences-SwapAgain-test.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/test-framework/googletest-build/googletest/CMakeFiles/gtest.dir/all
 MemoryManagement/ConstAndReferences/SwapAgain/CMakeFiles/MemoryManagement-ConstAndReferences-SwapAgain-test.dir/all: MemoryManagement/ConstAndReferences/SwapAgain/CMakeFiles/MemoryManagement-ConstAndReferences-SwapAgain-test-src-part.dir/all
 	$(MAKE) $(MAKESILENT) -f MemoryManagement\ConstAndReferences\SwapAgain\CMakeFiles\MemoryManagement-ConstAndReferences-SwapAgain-test.dir\build.make MemoryManagement/ConstAndReferences/SwapAgain/CMakeFiles/MemoryManagement-ConstAndReferences-SwapAgain-test.dir/depend
 	$(MAKE) $(MAKESILENT) -f MemoryManagement\ConstAndReferences\SwapAgain\CMakeFiles\MemoryManagement-ConstAndReferences-SwapAgain-test.dir\build.make MemoryManagement/ConstAndReferences/SwapAgain/CMakeFiles/MemoryManagement-ConstAndReferences-SwapAgain-test.dir/build
@@ -2889,8 +2889,8 @@ MemoryManagement/LinkedList/task/CMakeFiles/MemoryManagement-LinkedLists-LinkedL
 # Target rules for target MemoryManagement/LinkedList/task/CMakeFiles/MemoryManagement-LinkedLists-LinkedList-test.dir
 
 # All Build rule for target.
-MemoryManagement/LinkedList/task/CMakeFiles/MemoryManagement-LinkedLists-LinkedList-test.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/test-framework/googletest-build/googletest/CMakeFiles/gtest.dir/all
 MemoryManagement/LinkedList/task/CMakeFiles/MemoryManagement-LinkedLists-LinkedList-test.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/test-framework/googletest-build/googletest/CMakeFiles/gtest_main.dir/all
+MemoryManagement/LinkedList/task/CMakeFiles/MemoryManagement-LinkedLists-LinkedList-test.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/test-framework/googletest-build/googletest/CMakeFiles/gtest.dir/all
 MemoryManagement/LinkedList/task/CMakeFiles/MemoryManagement-LinkedLists-LinkedList-test.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/sfml/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/all
 MemoryManagement/LinkedList/task/CMakeFiles/MemoryManagement-LinkedLists-LinkedList-test.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/sfml/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/all
 MemoryManagement/LinkedList/task/CMakeFiles/MemoryManagement-LinkedLists-LinkedList-test.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/sfml/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/all
@@ -3055,8 +3055,8 @@ MemoryManagement/MemoryLayout/ArraysMemoryLayout/CMakeFiles/MemoryManagement-Mem
 # Target rules for target MemoryManagement/MemoryLayout/ArraysMemoryLayout/CMakeFiles/MemoryManagement-MemoryLayout-ArraysMemoryLayout-test.dir
 
 # All Build rule for target.
-MemoryManagement/MemoryLayout/ArraysMemoryLayout/CMakeFiles/MemoryManagement-MemoryLayout-ArraysMemoryLayout-test.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/test-framework/googletest-build/googletest/CMakeFiles/gtest.dir/all
 MemoryManagement/MemoryLayout/ArraysMemoryLayout/CMakeFiles/MemoryManagement-MemoryLayout-ArraysMemoryLayout-test.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/test-framework/googletest-build/googletest/CMakeFiles/gtest_main.dir/all
+MemoryManagement/MemoryLayout/ArraysMemoryLayout/CMakeFiles/MemoryManagement-MemoryLayout-ArraysMemoryLayout-test.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/test-framework/googletest-build/googletest/CMakeFiles/gtest.dir/all
 MemoryManagement/MemoryLayout/ArraysMemoryLayout/CMakeFiles/MemoryManagement-MemoryLayout-ArraysMemoryLayout-test.dir/all: MemoryManagement/MemoryLayout/ArraysMemoryLayout/CMakeFiles/MemoryManagement-MemoryLayout-ArraysMemoryLayout-test-src-part.dir/all
 	$(MAKE) $(MAKESILENT) -f MemoryManagement\MemoryLayout\ArraysMemoryLayout\CMakeFiles\MemoryManagement-MemoryLayout-ArraysMemoryLayout-test.dir\build.make MemoryManagement/MemoryLayout/ArraysMemoryLayout/CMakeFiles/MemoryManagement-MemoryLayout-ArraysMemoryLayout-test.dir/depend
 	$(MAKE) $(MAKESILENT) -f MemoryManagement\MemoryLayout\ArraysMemoryLayout\CMakeFiles\MemoryManagement-MemoryLayout-ArraysMemoryLayout-test.dir\build.make MemoryManagement/MemoryLayout/ArraysMemoryLayout/CMakeFiles/MemoryManagement-MemoryLayout-ArraysMemoryLayout-test.dir/build
@@ -3153,8 +3153,8 @@ MemoryManagement/MemoryLayout/CopyArray/CMakeFiles/MemoryManagement-MemoryLayout
 # Target rules for target MemoryManagement/MemoryLayout/CopyArray/CMakeFiles/MemoryManagement-MemoryLayout-CopyArray-test.dir
 
 # All Build rule for target.
-MemoryManagement/MemoryLayout/CopyArray/CMakeFiles/MemoryManagement-MemoryLayout-CopyArray-test.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/test-framework/googletest-build/googletest/CMakeFiles/gtest.dir/all
 MemoryManagement/MemoryLayout/CopyArray/CMakeFiles/MemoryManagement-MemoryLayout-CopyArray-test.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/test-framework/googletest-build/googletest/CMakeFiles/gtest_main.dir/all
+MemoryManagement/MemoryLayout/CopyArray/CMakeFiles/MemoryManagement-MemoryLayout-CopyArray-test.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/test-framework/googletest-build/googletest/CMakeFiles/gtest.dir/all
 MemoryManagement/MemoryLayout/CopyArray/CMakeFiles/MemoryManagement-MemoryLayout-CopyArray-test.dir/all: MemoryManagement/MemoryLayout/CopyArray/CMakeFiles/MemoryManagement-MemoryLayout-CopyArray-test-src-part.dir/all
 	$(MAKE) $(MAKESILENT) -f MemoryManagement\MemoryLayout\CopyArray\CMakeFiles\MemoryManagement-MemoryLayout-CopyArray-test.dir\build.make MemoryManagement/MemoryLayout/CopyArray/CMakeFiles/MemoryManagement-MemoryLayout-CopyArray-test.dir/depend
 	$(MAKE) $(MAKESILENT) -f MemoryManagement\MemoryLayout\CopyArray\CMakeFiles\MemoryManagement-MemoryLayout-CopyArray-test.dir\build.make MemoryManagement/MemoryLayout/CopyArray/CMakeFiles/MemoryManagement-MemoryLayout-CopyArray-test.dir/build
@@ -3315,8 +3315,8 @@ MemoryManagement/MemoryLayout/FunctionPointers/CMakeFiles/MemoryManagement-Memor
 # Target rules for target MemoryManagement/MemoryLayout/FunctionPointers/CMakeFiles/MemoryManagement-MemoryLayout-FunctionPointers-test.dir
 
 # All Build rule for target.
-MemoryManagement/MemoryLayout/FunctionPointers/CMakeFiles/MemoryManagement-MemoryLayout-FunctionPointers-test.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/test-framework/googletest-build/googletest/CMakeFiles/gtest.dir/all
 MemoryManagement/MemoryLayout/FunctionPointers/CMakeFiles/MemoryManagement-MemoryLayout-FunctionPointers-test.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/test-framework/googletest-build/googletest/CMakeFiles/gtest_main.dir/all
+MemoryManagement/MemoryLayout/FunctionPointers/CMakeFiles/MemoryManagement-MemoryLayout-FunctionPointers-test.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/test-framework/googletest-build/googletest/CMakeFiles/gtest.dir/all
 MemoryManagement/MemoryLayout/FunctionPointers/CMakeFiles/MemoryManagement-MemoryLayout-FunctionPointers-test.dir/all: MemoryManagement/MemoryLayout/FunctionPointers/CMakeFiles/MemoryManagement-MemoryLayout-FunctionPointers-test-src-part.dir/all
 	$(MAKE) $(MAKESILENT) -f MemoryManagement\MemoryLayout\FunctionPointers\CMakeFiles\MemoryManagement-MemoryLayout-FunctionPointers-test.dir\build.make MemoryManagement/MemoryLayout/FunctionPointers/CMakeFiles/MemoryManagement-MemoryLayout-FunctionPointers-test.dir/depend
 	$(MAKE) $(MAKESILENT) -f MemoryManagement\MemoryLayout\FunctionPointers\CMakeFiles\MemoryManagement-MemoryLayout-FunctionPointers-test.dir\build.make MemoryManagement/MemoryLayout/FunctionPointers/CMakeFiles/MemoryManagement-MemoryLayout-FunctionPointers-test.dir/build
@@ -3541,8 +3541,8 @@ MemoryManagement/MemoryLayout/PointToSameValue/CMakeFiles/MemoryManagement-Memor
 # Target rules for target MemoryManagement/MemoryLayout/PointToSameValue/CMakeFiles/MemoryManagement-MemoryLayout-PointToSameValue-test.dir
 
 # All Build rule for target.
-MemoryManagement/MemoryLayout/PointToSameValue/CMakeFiles/MemoryManagement-MemoryLayout-PointToSameValue-test.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/test-framework/googletest-build/googletest/CMakeFiles/gtest.dir/all
 MemoryManagement/MemoryLayout/PointToSameValue/CMakeFiles/MemoryManagement-MemoryLayout-PointToSameValue-test.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/test-framework/googletest-build/googletest/CMakeFiles/gtest_main.dir/all
+MemoryManagement/MemoryLayout/PointToSameValue/CMakeFiles/MemoryManagement-MemoryLayout-PointToSameValue-test.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/test-framework/googletest-build/googletest/CMakeFiles/gtest.dir/all
 MemoryManagement/MemoryLayout/PointToSameValue/CMakeFiles/MemoryManagement-MemoryLayout-PointToSameValue-test.dir/all: MemoryManagement/MemoryLayout/PointToSameValue/CMakeFiles/MemoryManagement-MemoryLayout-PointToSameValue-test-src-part.dir/all
 	$(MAKE) $(MAKESILENT) -f MemoryManagement\MemoryLayout\PointToSameValue\CMakeFiles\MemoryManagement-MemoryLayout-PointToSameValue-test.dir\build.make MemoryManagement/MemoryLayout/PointToSameValue/CMakeFiles/MemoryManagement-MemoryLayout-PointToSameValue-test.dir/depend
 	$(MAKE) $(MAKESILENT) -f MemoryManagement\MemoryLayout\PointToSameValue\CMakeFiles\MemoryManagement-MemoryLayout-PointToSameValue-test.dir\build.make MemoryManagement/MemoryLayout/PointToSameValue/CMakeFiles/MemoryManagement-MemoryLayout-PointToSameValue-test.dir/build
@@ -3831,8 +3831,8 @@ MemoryManagement/MemoryLayout/Swap/CMakeFiles/MemoryManagement-MemoryLayout-Swap
 # Target rules for target MemoryManagement/MemoryLayout/Swap/CMakeFiles/MemoryManagement-MemoryLayout-Swap-test.dir
 
 # All Build rule for target.
-MemoryManagement/MemoryLayout/Swap/CMakeFiles/MemoryManagement-MemoryLayout-Swap-test.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/test-framework/googletest-build/googletest/CMakeFiles/gtest.dir/all
 MemoryManagement/MemoryLayout/Swap/CMakeFiles/MemoryManagement-MemoryLayout-Swap-test.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/test-framework/googletest-build/googletest/CMakeFiles/gtest_main.dir/all
+MemoryManagement/MemoryLayout/Swap/CMakeFiles/MemoryManagement-MemoryLayout-Swap-test.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/test-framework/googletest-build/googletest/CMakeFiles/gtest.dir/all
 MemoryManagement/MemoryLayout/Swap/CMakeFiles/MemoryManagement-MemoryLayout-Swap-test.dir/all: MemoryManagement/MemoryLayout/Swap/CMakeFiles/MemoryManagement-MemoryLayout-Swap-test-src-part.dir/all
 	$(MAKE) $(MAKESILENT) -f MemoryManagement\MemoryLayout\Swap\CMakeFiles\MemoryManagement-MemoryLayout-Swap-test.dir\build.make MemoryManagement/MemoryLayout/Swap/CMakeFiles/MemoryManagement-MemoryLayout-Swap-test.dir/depend
 	$(MAKE) $(MAKESILENT) -f MemoryManagement\MemoryLayout\Swap\CMakeFiles\MemoryManagement-MemoryLayout-Swap-test.dir\build.make MemoryManagement/MemoryLayout/Swap/CMakeFiles/MemoryManagement-MemoryLayout-Swap-test.dir/build
@@ -3961,8 +3961,8 @@ MemoryManagement/TypeCastsAndCStrings/CStringConcat/CMakeFiles/MemoryManagement-
 # Target rules for target MemoryManagement/TypeCastsAndCStrings/CStringConcat/CMakeFiles/MemoryManagement-TypeCastsAndCStrings-CStringConcat-test.dir
 
 # All Build rule for target.
-MemoryManagement/TypeCastsAndCStrings/CStringConcat/CMakeFiles/MemoryManagement-TypeCastsAndCStrings-CStringConcat-test.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/test-framework/googletest-build/googletest/CMakeFiles/gtest.dir/all
 MemoryManagement/TypeCastsAndCStrings/CStringConcat/CMakeFiles/MemoryManagement-TypeCastsAndCStrings-CStringConcat-test.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/test-framework/googletest-build/googletest/CMakeFiles/gtest_main.dir/all
+MemoryManagement/TypeCastsAndCStrings/CStringConcat/CMakeFiles/MemoryManagement-TypeCastsAndCStrings-CStringConcat-test.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/test-framework/googletest-build/googletest/CMakeFiles/gtest.dir/all
 MemoryManagement/TypeCastsAndCStrings/CStringConcat/CMakeFiles/MemoryManagement-TypeCastsAndCStrings-CStringConcat-test.dir/all: MemoryManagement/TypeCastsAndCStrings/CStringConcat/CMakeFiles/MemoryManagement-TypeCastsAndCStrings-CStringConcat-test-src-part.dir/all
 	$(MAKE) $(MAKESILENT) -f MemoryManagement\TypeCastsAndCStrings\CStringConcat\CMakeFiles\MemoryManagement-TypeCastsAndCStrings-CStringConcat-test.dir\build.make MemoryManagement/TypeCastsAndCStrings/CStringConcat/CMakeFiles/MemoryManagement-TypeCastsAndCStrings-CStringConcat-test.dir/depend
 	$(MAKE) $(MAKESILENT) -f MemoryManagement\TypeCastsAndCStrings\CStringConcat\CMakeFiles\MemoryManagement-TypeCastsAndCStrings-CStringConcat-test.dir\build.make MemoryManagement/TypeCastsAndCStrings/CStringConcat/CMakeFiles/MemoryManagement-TypeCastsAndCStrings-CStringConcat-test.dir/build
@@ -4059,8 +4059,8 @@ MemoryManagement/TypeCastsAndCStrings/CStringSplit/CMakeFiles/MemoryManagement-T
 # Target rules for target MemoryManagement/TypeCastsAndCStrings/CStringSplit/CMakeFiles/MemoryManagement-TypeCastsAndCStrings-CStringSplit-test.dir
 
 # All Build rule for target.
-MemoryManagement/TypeCastsAndCStrings/CStringSplit/CMakeFiles/MemoryManagement-TypeCastsAndCStrings-CStringSplit-test.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/test-framework/googletest-build/googletest/CMakeFiles/gtest.dir/all
 MemoryManagement/TypeCastsAndCStrings/CStringSplit/CMakeFiles/MemoryManagement-TypeCastsAndCStrings-CStringSplit-test.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/test-framework/googletest-build/googletest/CMakeFiles/gtest_main.dir/all
+MemoryManagement/TypeCastsAndCStrings/CStringSplit/CMakeFiles/MemoryManagement-TypeCastsAndCStrings-CStringSplit-test.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/test-framework/googletest-build/googletest/CMakeFiles/gtest.dir/all
 MemoryManagement/TypeCastsAndCStrings/CStringSplit/CMakeFiles/MemoryManagement-TypeCastsAndCStrings-CStringSplit-test.dir/all: MemoryManagement/TypeCastsAndCStrings/CStringSplit/CMakeFiles/MemoryManagement-TypeCastsAndCStrings-CStringSplit-test-src-part.dir/all
 	$(MAKE) $(MAKESILENT) -f MemoryManagement\TypeCastsAndCStrings\CStringSplit\CMakeFiles\MemoryManagement-TypeCastsAndCStrings-CStringSplit-test.dir\build.make MemoryManagement/TypeCastsAndCStrings/CStringSplit/CMakeFiles/MemoryManagement-TypeCastsAndCStrings-CStringSplit-test.dir/depend
 	$(MAKE) $(MAKESILENT) -f MemoryManagement\TypeCastsAndCStrings\CStringSplit\CMakeFiles\MemoryManagement-TypeCastsAndCStrings-CStringSplit-test.dir\build.make MemoryManagement/TypeCastsAndCStrings/CStringSplit/CMakeFiles/MemoryManagement-TypeCastsAndCStrings-CStringSplit-test.dir/build
@@ -4218,112 +4218,112 @@ MemoryManagement/TypeCastsAndCStrings/TypeCastsQuestion/CMakeFiles/MemoryManagem
 .PHONY : MemoryManagement/TypeCastsAndCStrings/TypeCastsQuestion/CMakeFiles/MemoryManagement-TypeCastsAndCStrings-TypeCastsQuestion-run.dir/clean
 
 #=============================================================================
-# Target rules for target ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-run.dir
+# Target rules for target ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-run.dir
 
 # All Build rule for target.
-ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-run.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/sfml/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/all
-ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-run.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/sfml/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/all
-ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-run.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/sfml/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/all
-ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-run.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/sfml/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/all
-	$(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-run.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-run.dir/depend
-	$(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-run.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-run.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="C:\Users\B760M\CLionProjects\C++ Basics\cmake-build-debug\CMakeFiles" --progress-num=26,27,28,29,30 "Built target ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-run"
-.PHONY : ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-run.dir/all
+ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-run.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/sfml/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/all
+ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-run.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/sfml/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/all
+ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-run.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/sfml/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/all
+ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-run.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/sfml/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/all
+	$(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-run.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-run.dir/depend
+	$(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-run.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-run.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="C:\Users\B760M\CLionProjects\C++ Basics\cmake-build-debug\CMakeFiles" --progress-num=26,27,28,29,30 "Built target ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-run"
+.PHONY : ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-run.dir/all
 
 # Build rule for subdir invocation for target.
-ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-run.dir/rule: cmake_check_build_system
+ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-run.dir/rule: cmake_check_build_system
 	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\B760M\CLionProjects\C++ Basics\cmake-build-debug\CMakeFiles" 27
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-run.dir/all
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-run.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\B760M\CLionProjects\C++ Basics\cmake-build-debug\CMakeFiles" 0
-.PHONY : ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-run.dir/rule
+.PHONY : ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-run.dir/rule
 
 # Convenience name for target.
-ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-run: ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-run.dir/rule
-.PHONY : ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-run
+ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-run: ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-run.dir/rule
+.PHONY : ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-run
 
 # codegen rule for target.
-ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-run.dir/codegen:
-	$(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-run.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-run.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="C:\Users\B760M\CLionProjects\C++ Basics\cmake-build-debug\CMakeFiles" --progress-num=26,27,28,29,30 "Finished codegen for target ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-run"
-.PHONY : ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-run.dir/codegen
+ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-run.dir/codegen:
+	$(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-run.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-run.dir/codegen
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="C:\Users\B760M\CLionProjects\C++ Basics\cmake-build-debug\CMakeFiles" --progress-num=26,27,28,29,30 "Finished codegen for target ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-run"
+.PHONY : ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-run.dir/codegen
 
 # clean rule for target.
-ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-run.dir/clean:
-	$(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-run.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-run.dir/clean
-.PHONY : ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-run.dir/clean
+ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-run.dir/clean:
+	$(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-run.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-run.dir/clean
+.PHONY : ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-run.dir/clean
 
 #=============================================================================
-# Target rules for target ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test-src-part.dir
+# Target rules for target ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test-src-part.dir
 
 # All Build rule for target.
-ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test-src-part.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/sfml/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/all
-ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test-src-part.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/sfml/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/all
-ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test-src-part.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/sfml/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/all
-ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test-src-part.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/sfml/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/all
-	$(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test-src-part.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test-src-part.dir/depend
-	$(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test-src-part.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test-src-part.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="C:\Users\B760M\CLionProjects\C++ Basics\cmake-build-debug\CMakeFiles" --progress-num=31,32,33,34,35 "Built target ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test-src-part"
-.PHONY : ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test-src-part.dir/all
+ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test-src-part.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/sfml/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/all
+ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test-src-part.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/sfml/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/all
+ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test-src-part.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/sfml/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/all
+ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test-src-part.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/sfml/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/all
+	$(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test-src-part.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test-src-part.dir/depend
+	$(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test-src-part.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test-src-part.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="C:\Users\B760M\CLionProjects\C++ Basics\cmake-build-debug\CMakeFiles" --progress-num=31,32,33,34,35 "Built target ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test-src-part"
+.PHONY : ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test-src-part.dir/all
 
 # Build rule for subdir invocation for target.
-ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test-src-part.dir/rule: cmake_check_build_system
+ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test-src-part.dir/rule: cmake_check_build_system
 	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\B760M\CLionProjects\C++ Basics\cmake-build-debug\CMakeFiles" 27
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test-src-part.dir/all
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test-src-part.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\B760M\CLionProjects\C++ Basics\cmake-build-debug\CMakeFiles" 0
-.PHONY : ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test-src-part.dir/rule
+.PHONY : ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test-src-part.dir/rule
 
 # Convenience name for target.
-ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test-src-part: ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test-src-part.dir/rule
-.PHONY : ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test-src-part
+ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test-src-part: ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test-src-part.dir/rule
+.PHONY : ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test-src-part
 
 # codegen rule for target.
-ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test-src-part.dir/codegen:
-	$(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test-src-part.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test-src-part.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="C:\Users\B760M\CLionProjects\C++ Basics\cmake-build-debug\CMakeFiles" --progress-num=31,32,33,34,35 "Finished codegen for target ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test-src-part"
-.PHONY : ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test-src-part.dir/codegen
+ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test-src-part.dir/codegen:
+	$(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test-src-part.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test-src-part.dir/codegen
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="C:\Users\B760M\CLionProjects\C++ Basics\cmake-build-debug\CMakeFiles" --progress-num=31,32,33,34,35 "Finished codegen for target ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test-src-part"
+.PHONY : ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test-src-part.dir/codegen
 
 # clean rule for target.
-ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test-src-part.dir/clean:
-	$(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test-src-part.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test-src-part.dir/clean
-.PHONY : ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test-src-part.dir/clean
+ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test-src-part.dir/clean:
+	$(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test-src-part.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test-src-part.dir/clean
+.PHONY : ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test-src-part.dir/clean
 
 #=============================================================================
-# Target rules for target ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test.dir
+# Target rules for target ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test.dir
 
 # All Build rule for target.
-ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/test-framework/googletest-build/googletest/CMakeFiles/gtest.dir/all
-ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/test-framework/googletest-build/googletest/CMakeFiles/gtest_main.dir/all
-ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/sfml/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/all
-ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/sfml/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/all
-ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/sfml/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/all
-ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/sfml/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/all
-ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test.dir/all: ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test-src-part.dir/all
-	$(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test.dir/depend
-	$(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="C:\Users\B760M\CLionProjects\C++ Basics\cmake-build-debug\CMakeFiles" --progress-num= "Built target ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test"
-.PHONY : ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test.dir/all
+ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/test-framework/googletest-build/googletest/CMakeFiles/gtest_main.dir/all
+ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/test-framework/googletest-build/googletest/CMakeFiles/gtest.dir/all
+ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/sfml/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/all
+ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/sfml/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/all
+ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/sfml/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/all
+ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/sfml/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/all
+ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test.dir/all: ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test-src-part.dir/all
+	$(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test.dir/depend
+	$(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="C:\Users\B760M\CLionProjects\C++ Basics\cmake-build-debug\CMakeFiles" --progress-num= "Built target ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test"
+.PHONY : ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test.dir/all
 
 # Build rule for subdir invocation for target.
-ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test.dir/rule: cmake_check_build_system
+ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test.dir/rule: cmake_check_build_system
 	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\B760M\CLionProjects\C++ Basics\cmake-build-debug\CMakeFiles" 28
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test.dir/all
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\B760M\CLionProjects\C++ Basics\cmake-build-debug\CMakeFiles" 0
-.PHONY : ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test.dir/rule
+.PHONY : ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test.dir/rule
 
 # Convenience name for target.
-ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test: ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test.dir/rule
-.PHONY : ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test
+ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test: ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test.dir/rule
+.PHONY : ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test
 
 # codegen rule for target.
-ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test.dir/codegen:
-	$(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="C:\Users\B760M\CLionProjects\C++ Basics\cmake-build-debug\CMakeFiles" --progress-num= "Finished codegen for target ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test"
-.PHONY : ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test.dir/codegen
+ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test.dir/codegen:
+	$(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test.dir/codegen
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="C:\Users\B760M\CLionProjects\C++ Basics\cmake-build-debug\CMakeFiles" --progress-num= "Finished codegen for target ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test"
+.PHONY : ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test.dir/codegen
 
 # clean rule for target.
-ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test.dir/clean:
-	$(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test.dir/clean
-.PHONY : ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test.dir/clean
+ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test.dir/clean:
+	$(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test.dir/clean
+.PHONY : ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test.dir/clean
 
 #=============================================================================
 # Target rules for target ObjectOrientedProgramming/MemoryOwnership/CopyConstructor/CMakeFiles/ObjectOrientedProgramming-MemoryOwnership-CopyConstructor-run.dir
@@ -4457,8 +4457,8 @@ ObjectOrientedProgramming/MemoryOwnership/NewAndDeleteOperators/CMakeFiles/Objec
 # Target rules for target ObjectOrientedProgramming/MemoryOwnership/NewAndDeleteOperators/CMakeFiles/ObjectOrientedProgramming-MemoryOwnership-new_and_delete_operators-test.dir
 
 # All Build rule for target.
-ObjectOrientedProgramming/MemoryOwnership/NewAndDeleteOperators/CMakeFiles/ObjectOrientedProgramming-MemoryOwnership-new_and_delete_operators-test.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/test-framework/googletest-build/googletest/CMakeFiles/gtest.dir/all
 ObjectOrientedProgramming/MemoryOwnership/NewAndDeleteOperators/CMakeFiles/ObjectOrientedProgramming-MemoryOwnership-new_and_delete_operators-test.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/test-framework/googletest-build/googletest/CMakeFiles/gtest_main.dir/all
+ObjectOrientedProgramming/MemoryOwnership/NewAndDeleteOperators/CMakeFiles/ObjectOrientedProgramming-MemoryOwnership-new_and_delete_operators-test.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/test-framework/googletest-build/googletest/CMakeFiles/gtest.dir/all
 ObjectOrientedProgramming/MemoryOwnership/NewAndDeleteOperators/CMakeFiles/ObjectOrientedProgramming-MemoryOwnership-new_and_delete_operators-test.dir/all: ObjectOrientedProgramming/MemoryOwnership/NewAndDeleteOperators/CMakeFiles/ObjectOrientedProgramming-MemoryOwnership-new_and_delete_operators-test-src-part.dir/all
 	$(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\MemoryOwnership\NewAndDeleteOperators\CMakeFiles\ObjectOrientedProgramming-MemoryOwnership-new_and_delete_operators-test.dir\build.make ObjectOrientedProgramming/MemoryOwnership/NewAndDeleteOperators/CMakeFiles/ObjectOrientedProgramming-MemoryOwnership-new_and_delete_operators-test.dir/depend
 	$(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\MemoryOwnership\NewAndDeleteOperators\CMakeFiles\ObjectOrientedProgramming-MemoryOwnership-new_and_delete_operators-test.dir\build.make ObjectOrientedProgramming/MemoryOwnership/NewAndDeleteOperators/CMakeFiles/ObjectOrientedProgramming-MemoryOwnership-new_and_delete_operators-test.dir/build
@@ -4587,8 +4587,8 @@ ObjectOrientedProgramming/MemoryOwnership/PlacementNew/CMakeFiles/ObjectOriented
 # Target rules for target ObjectOrientedProgramming/MemoryOwnership/PlacementNew/CMakeFiles/ObjectOrientedProgramming-MemoryOwnership-Placement_new-test.dir
 
 # All Build rule for target.
-ObjectOrientedProgramming/MemoryOwnership/PlacementNew/CMakeFiles/ObjectOrientedProgramming-MemoryOwnership-Placement_new-test.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/test-framework/googletest-build/googletest/CMakeFiles/gtest.dir/all
 ObjectOrientedProgramming/MemoryOwnership/PlacementNew/CMakeFiles/ObjectOrientedProgramming-MemoryOwnership-Placement_new-test.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/test-framework/googletest-build/googletest/CMakeFiles/gtest_main.dir/all
+ObjectOrientedProgramming/MemoryOwnership/PlacementNew/CMakeFiles/ObjectOrientedProgramming-MemoryOwnership-Placement_new-test.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/test-framework/googletest-build/googletest/CMakeFiles/gtest.dir/all
 ObjectOrientedProgramming/MemoryOwnership/PlacementNew/CMakeFiles/ObjectOrientedProgramming-MemoryOwnership-Placement_new-test.dir/all: ObjectOrientedProgramming/MemoryOwnership/PlacementNew/CMakeFiles/ObjectOrientedProgramming-MemoryOwnership-Placement_new-test-src-part.dir/all
 	$(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\MemoryOwnership\PlacementNew\CMakeFiles\ObjectOrientedProgramming-MemoryOwnership-Placement_new-test.dir\build.make ObjectOrientedProgramming/MemoryOwnership/PlacementNew/CMakeFiles/ObjectOrientedProgramming-MemoryOwnership-Placement_new-test.dir/depend
 	$(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\MemoryOwnership\PlacementNew\CMakeFiles\ObjectOrientedProgramming-MemoryOwnership-Placement_new-test.dir\build.make ObjectOrientedProgramming/MemoryOwnership/PlacementNew/CMakeFiles/ObjectOrientedProgramming-MemoryOwnership-Placement_new-test.dir/build
@@ -4717,8 +4717,8 @@ ObjectOrientedProgramming/MemoryOwnership/SharedPtr/CMakeFiles/ObjectOrientedPro
 # Target rules for target ObjectOrientedProgramming/MemoryOwnership/SharedPtr/CMakeFiles/ObjectOrientedProgramming-MemoryOwnership-SharedPtr-test.dir
 
 # All Build rule for target.
-ObjectOrientedProgramming/MemoryOwnership/SharedPtr/CMakeFiles/ObjectOrientedProgramming-MemoryOwnership-SharedPtr-test.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/test-framework/googletest-build/googletest/CMakeFiles/gtest.dir/all
 ObjectOrientedProgramming/MemoryOwnership/SharedPtr/CMakeFiles/ObjectOrientedProgramming-MemoryOwnership-SharedPtr-test.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/test-framework/googletest-build/googletest/CMakeFiles/gtest_main.dir/all
+ObjectOrientedProgramming/MemoryOwnership/SharedPtr/CMakeFiles/ObjectOrientedProgramming-MemoryOwnership-SharedPtr-test.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/test-framework/googletest-build/googletest/CMakeFiles/gtest.dir/all
 ObjectOrientedProgramming/MemoryOwnership/SharedPtr/CMakeFiles/ObjectOrientedProgramming-MemoryOwnership-SharedPtr-test.dir/all: ObjectOrientedProgramming/MemoryOwnership/SharedPtr/CMakeFiles/ObjectOrientedProgramming-MemoryOwnership-SharedPtr-test-src-part.dir/all
 	$(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\MemoryOwnership\SharedPtr\CMakeFiles\ObjectOrientedProgramming-MemoryOwnership-SharedPtr-test.dir\build.make ObjectOrientedProgramming/MemoryOwnership/SharedPtr/CMakeFiles/ObjectOrientedProgramming-MemoryOwnership-SharedPtr-test.dir/depend
 	$(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\MemoryOwnership\SharedPtr\CMakeFiles\ObjectOrientedProgramming-MemoryOwnership-SharedPtr-test.dir\build.make ObjectOrientedProgramming/MemoryOwnership/SharedPtr/CMakeFiles/ObjectOrientedProgramming-MemoryOwnership-SharedPtr-test.dir/build
@@ -4847,8 +4847,8 @@ ObjectOrientedProgramming/MemoryOwnership/UniquePtr/CMakeFiles/ObjectOrientedPro
 # Target rules for target ObjectOrientedProgramming/MemoryOwnership/UniquePtr/CMakeFiles/ObjectOrientedProgramming-MemoryOwnership-UniquePtr-test.dir
 
 # All Build rule for target.
-ObjectOrientedProgramming/MemoryOwnership/UniquePtr/CMakeFiles/ObjectOrientedProgramming-MemoryOwnership-UniquePtr-test.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/test-framework/googletest-build/googletest/CMakeFiles/gtest.dir/all
 ObjectOrientedProgramming/MemoryOwnership/UniquePtr/CMakeFiles/ObjectOrientedProgramming-MemoryOwnership-UniquePtr-test.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/test-framework/googletest-build/googletest/CMakeFiles/gtest_main.dir/all
+ObjectOrientedProgramming/MemoryOwnership/UniquePtr/CMakeFiles/ObjectOrientedProgramming-MemoryOwnership-UniquePtr-test.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/test-framework/googletest-build/googletest/CMakeFiles/gtest.dir/all
 ObjectOrientedProgramming/MemoryOwnership/UniquePtr/CMakeFiles/ObjectOrientedProgramming-MemoryOwnership-UniquePtr-test.dir/all: ObjectOrientedProgramming/MemoryOwnership/UniquePtr/CMakeFiles/ObjectOrientedProgramming-MemoryOwnership-UniquePtr-test-src-part.dir/all
 	$(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\MemoryOwnership\UniquePtr\CMakeFiles\ObjectOrientedProgramming-MemoryOwnership-UniquePtr-test.dir\build.make ObjectOrientedProgramming/MemoryOwnership/UniquePtr/CMakeFiles/ObjectOrientedProgramming-MemoryOwnership-UniquePtr-test.dir/depend
 	$(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\MemoryOwnership\UniquePtr\CMakeFiles\ObjectOrientedProgramming-MemoryOwnership-UniquePtr-test.dir\build.make ObjectOrientedProgramming/MemoryOwnership/UniquePtr/CMakeFiles/ObjectOrientedProgramming-MemoryOwnership-UniquePtr-test.dir/build
@@ -4945,8 +4945,8 @@ ObjectOrientedProgramming/MemoryOwnership/WeakPtr/CMakeFiles/ObjectOrientedProgr
 # Target rules for target ObjectOrientedProgramming/MemoryOwnership/WeakPtr/CMakeFiles/ObjectOrientedProgramming-MemoryOwnership-WeakPtr-test.dir
 
 # All Build rule for target.
-ObjectOrientedProgramming/MemoryOwnership/WeakPtr/CMakeFiles/ObjectOrientedProgramming-MemoryOwnership-WeakPtr-test.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/test-framework/googletest-build/googletest/CMakeFiles/gtest.dir/all
 ObjectOrientedProgramming/MemoryOwnership/WeakPtr/CMakeFiles/ObjectOrientedProgramming-MemoryOwnership-WeakPtr-test.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/test-framework/googletest-build/googletest/CMakeFiles/gtest_main.dir/all
+ObjectOrientedProgramming/MemoryOwnership/WeakPtr/CMakeFiles/ObjectOrientedProgramming-MemoryOwnership-WeakPtr-test.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/test-framework/googletest-build/googletest/CMakeFiles/gtest.dir/all
 ObjectOrientedProgramming/MemoryOwnership/WeakPtr/CMakeFiles/ObjectOrientedProgramming-MemoryOwnership-WeakPtr-test.dir/all: ObjectOrientedProgramming/MemoryOwnership/WeakPtr/CMakeFiles/ObjectOrientedProgramming-MemoryOwnership-WeakPtr-test-src-part.dir/all
 	$(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\MemoryOwnership\WeakPtr\CMakeFiles\ObjectOrientedProgramming-MemoryOwnership-WeakPtr-test.dir\build.make ObjectOrientedProgramming/MemoryOwnership/WeakPtr/CMakeFiles/ObjectOrientedProgramming-MemoryOwnership-WeakPtr-test.dir/depend
 	$(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\MemoryOwnership\WeakPtr\CMakeFiles\ObjectOrientedProgramming-MemoryOwnership-WeakPtr-test.dir\build.make ObjectOrientedProgramming/MemoryOwnership/WeakPtr/CMakeFiles/ObjectOrientedProgramming-MemoryOwnership-WeakPtr-test.dir/build
@@ -5075,8 +5075,8 @@ StandardLibraryEssentials/StandardTemplateLibrary/EfficientStringUsage/CMakeFile
 # Target rules for target StandardLibraryEssentials/StandardTemplateLibrary/EfficientStringUsage/CMakeFiles/StandardLibraryEssentials-StandardTemplateLibrary-EfficientStringUsage-test.dir
 
 # All Build rule for target.
-StandardLibraryEssentials/StandardTemplateLibrary/EfficientStringUsage/CMakeFiles/StandardLibraryEssentials-StandardTemplateLibrary-EfficientStringUsage-test.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/test-framework/googletest-build/googletest/CMakeFiles/gtest.dir/all
 StandardLibraryEssentials/StandardTemplateLibrary/EfficientStringUsage/CMakeFiles/StandardLibraryEssentials-StandardTemplateLibrary-EfficientStringUsage-test.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/test-framework/googletest-build/googletest/CMakeFiles/gtest_main.dir/all
+StandardLibraryEssentials/StandardTemplateLibrary/EfficientStringUsage/CMakeFiles/StandardLibraryEssentials-StandardTemplateLibrary-EfficientStringUsage-test.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/test-framework/googletest-build/googletest/CMakeFiles/gtest.dir/all
 StandardLibraryEssentials/StandardTemplateLibrary/EfficientStringUsage/CMakeFiles/StandardLibraryEssentials-StandardTemplateLibrary-EfficientStringUsage-test.dir/all: StandardLibraryEssentials/StandardTemplateLibrary/EfficientStringUsage/CMakeFiles/StandardLibraryEssentials-StandardTemplateLibrary-EfficientStringUsage-test-src-part.dir/all
 	$(MAKE) $(MAKESILENT) -f StandardLibraryEssentials\StandardTemplateLibrary\EfficientStringUsage\CMakeFiles\StandardLibraryEssentials-StandardTemplateLibrary-EfficientStringUsage-test.dir\build.make StandardLibraryEssentials/StandardTemplateLibrary/EfficientStringUsage/CMakeFiles/StandardLibraryEssentials-StandardTemplateLibrary-EfficientStringUsage-test.dir/depend
 	$(MAKE) $(MAKESILENT) -f StandardLibraryEssentials\StandardTemplateLibrary\EfficientStringUsage\CMakeFiles\StandardLibraryEssentials-StandardTemplateLibrary-EfficientStringUsage-test.dir\build.make StandardLibraryEssentials/StandardTemplateLibrary/EfficientStringUsage/CMakeFiles/StandardLibraryEssentials-StandardTemplateLibrary-EfficientStringUsage-test.dir/build
@@ -5173,8 +5173,8 @@ StandardLibraryEssentials/StandardTemplateLibrary/InputOutputStreams/CMakeFiles/
 # Target rules for target StandardLibraryEssentials/StandardTemplateLibrary/InputOutputStreams/CMakeFiles/StandardLibraryEssentials-StandardTemplateLibrary-InputOutputStreams-test.dir
 
 # All Build rule for target.
-StandardLibraryEssentials/StandardTemplateLibrary/InputOutputStreams/CMakeFiles/StandardLibraryEssentials-StandardTemplateLibrary-InputOutputStreams-test.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/test-framework/googletest-build/googletest/CMakeFiles/gtest.dir/all
 StandardLibraryEssentials/StandardTemplateLibrary/InputOutputStreams/CMakeFiles/StandardLibraryEssentials-StandardTemplateLibrary-InputOutputStreams-test.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/test-framework/googletest-build/googletest/CMakeFiles/gtest_main.dir/all
+StandardLibraryEssentials/StandardTemplateLibrary/InputOutputStreams/CMakeFiles/StandardLibraryEssentials-StandardTemplateLibrary-InputOutputStreams-test.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/test-framework/googletest-build/googletest/CMakeFiles/gtest.dir/all
 StandardLibraryEssentials/StandardTemplateLibrary/InputOutputStreams/CMakeFiles/StandardLibraryEssentials-StandardTemplateLibrary-InputOutputStreams-test.dir/all: StandardLibraryEssentials/StandardTemplateLibrary/InputOutputStreams/CMakeFiles/StandardLibraryEssentials-StandardTemplateLibrary-InputOutputStreams-test-src-part.dir/all
 	$(MAKE) $(MAKESILENT) -f StandardLibraryEssentials\StandardTemplateLibrary\InputOutputStreams\CMakeFiles\StandardLibraryEssentials-StandardTemplateLibrary-InputOutputStreams-test.dir\build.make StandardLibraryEssentials/StandardTemplateLibrary/InputOutputStreams/CMakeFiles/StandardLibraryEssentials-StandardTemplateLibrary-InputOutputStreams-test.dir/depend
 	$(MAKE) $(MAKESILENT) -f StandardLibraryEssentials\StandardTemplateLibrary\InputOutputStreams\CMakeFiles\StandardLibraryEssentials-StandardTemplateLibrary-InputOutputStreams-test.dir\build.make StandardLibraryEssentials/StandardTemplateLibrary/InputOutputStreams/CMakeFiles/StandardLibraryEssentials-StandardTemplateLibrary-InputOutputStreams-test.dir/build
@@ -5303,8 +5303,8 @@ StandardLibraryEssentials/StandardTemplateLibrary/IteratorIntroduction/CMakeFile
 # Target rules for target StandardLibraryEssentials/StandardTemplateLibrary/IteratorIntroduction/CMakeFiles/StandardLibraryEssentials-StandardTemplateLibrary-IteratorIntroduction-test.dir
 
 # All Build rule for target.
-StandardLibraryEssentials/StandardTemplateLibrary/IteratorIntroduction/CMakeFiles/StandardLibraryEssentials-StandardTemplateLibrary-IteratorIntroduction-test.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/test-framework/googletest-build/googletest/CMakeFiles/gtest.dir/all
 StandardLibraryEssentials/StandardTemplateLibrary/IteratorIntroduction/CMakeFiles/StandardLibraryEssentials-StandardTemplateLibrary-IteratorIntroduction-test.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/test-framework/googletest-build/googletest/CMakeFiles/gtest_main.dir/all
+StandardLibraryEssentials/StandardTemplateLibrary/IteratorIntroduction/CMakeFiles/StandardLibraryEssentials-StandardTemplateLibrary-IteratorIntroduction-test.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/test-framework/googletest-build/googletest/CMakeFiles/gtest.dir/all
 StandardLibraryEssentials/StandardTemplateLibrary/IteratorIntroduction/CMakeFiles/StandardLibraryEssentials-StandardTemplateLibrary-IteratorIntroduction-test.dir/all: StandardLibraryEssentials/StandardTemplateLibrary/IteratorIntroduction/CMakeFiles/StandardLibraryEssentials-StandardTemplateLibrary-IteratorIntroduction-test-src-part.dir/all
 	$(MAKE) $(MAKESILENT) -f StandardLibraryEssentials\StandardTemplateLibrary\IteratorIntroduction\CMakeFiles\StandardLibraryEssentials-StandardTemplateLibrary-IteratorIntroduction-test.dir\build.make StandardLibraryEssentials/StandardTemplateLibrary/IteratorIntroduction/CMakeFiles/StandardLibraryEssentials-StandardTemplateLibrary-IteratorIntroduction-test.dir/depend
 	$(MAKE) $(MAKESILENT) -f StandardLibraryEssentials\StandardTemplateLibrary\IteratorIntroduction\CMakeFiles\StandardLibraryEssentials-StandardTemplateLibrary-IteratorIntroduction-test.dir\build.make StandardLibraryEssentials/StandardTemplateLibrary/IteratorIntroduction/CMakeFiles/StandardLibraryEssentials-StandardTemplateLibrary-IteratorIntroduction-test.dir/build
@@ -5401,8 +5401,8 @@ StandardLibraryEssentials/StandardTemplateLibrary/MapContainers/CMakeFiles/Stand
 # Target rules for target StandardLibraryEssentials/StandardTemplateLibrary/MapContainers/CMakeFiles/StandardLibraryEssentials-StandardTemplateLibrary-mapContainers-test.dir
 
 # All Build rule for target.
-StandardLibraryEssentials/StandardTemplateLibrary/MapContainers/CMakeFiles/StandardLibraryEssentials-StandardTemplateLibrary-mapContainers-test.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/test-framework/googletest-build/googletest/CMakeFiles/gtest.dir/all
 StandardLibraryEssentials/StandardTemplateLibrary/MapContainers/CMakeFiles/StandardLibraryEssentials-StandardTemplateLibrary-mapContainers-test.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/test-framework/googletest-build/googletest/CMakeFiles/gtest_main.dir/all
+StandardLibraryEssentials/StandardTemplateLibrary/MapContainers/CMakeFiles/StandardLibraryEssentials-StandardTemplateLibrary-mapContainers-test.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/test-framework/googletest-build/googletest/CMakeFiles/gtest.dir/all
 StandardLibraryEssentials/StandardTemplateLibrary/MapContainers/CMakeFiles/StandardLibraryEssentials-StandardTemplateLibrary-mapContainers-test.dir/all: StandardLibraryEssentials/StandardTemplateLibrary/MapContainers/CMakeFiles/StandardLibraryEssentials-StandardTemplateLibrary-mapContainers-test-src-part.dir/all
 	$(MAKE) $(MAKESILENT) -f StandardLibraryEssentials\StandardTemplateLibrary\MapContainers\CMakeFiles\StandardLibraryEssentials-StandardTemplateLibrary-mapContainers-test.dir\build.make StandardLibraryEssentials/StandardTemplateLibrary/MapContainers/CMakeFiles/StandardLibraryEssentials-StandardTemplateLibrary-mapContainers-test.dir/depend
 	$(MAKE) $(MAKESILENT) -f StandardLibraryEssentials\StandardTemplateLibrary\MapContainers\CMakeFiles\StandardLibraryEssentials-StandardTemplateLibrary-mapContainers-test.dir\build.make StandardLibraryEssentials/StandardTemplateLibrary/MapContainers/CMakeFiles/StandardLibraryEssentials-StandardTemplateLibrary-mapContainers-test.dir/build
@@ -5499,8 +5499,8 @@ StandardLibraryEssentials/StandardTemplateLibrary/STLAlgorithms/CMakeFiles/Stand
 # Target rules for target StandardLibraryEssentials/StandardTemplateLibrary/STLAlgorithms/CMakeFiles/StandardLibraryEssentials-StandardTemplateLibrary-STLAlgorithms-test.dir
 
 # All Build rule for target.
-StandardLibraryEssentials/StandardTemplateLibrary/STLAlgorithms/CMakeFiles/StandardLibraryEssentials-StandardTemplateLibrary-STLAlgorithms-test.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/test-framework/googletest-build/googletest/CMakeFiles/gtest.dir/all
 StandardLibraryEssentials/StandardTemplateLibrary/STLAlgorithms/CMakeFiles/StandardLibraryEssentials-StandardTemplateLibrary-STLAlgorithms-test.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/test-framework/googletest-build/googletest/CMakeFiles/gtest_main.dir/all
+StandardLibraryEssentials/StandardTemplateLibrary/STLAlgorithms/CMakeFiles/StandardLibraryEssentials-StandardTemplateLibrary-STLAlgorithms-test.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/test-framework/googletest-build/googletest/CMakeFiles/gtest.dir/all
 StandardLibraryEssentials/StandardTemplateLibrary/STLAlgorithms/CMakeFiles/StandardLibraryEssentials-StandardTemplateLibrary-STLAlgorithms-test.dir/all: StandardLibraryEssentials/StandardTemplateLibrary/STLAlgorithms/CMakeFiles/StandardLibraryEssentials-StandardTemplateLibrary-STLAlgorithms-test-src-part.dir/all
 	$(MAKE) $(MAKESILENT) -f StandardLibraryEssentials\StandardTemplateLibrary\STLAlgorithms\CMakeFiles\StandardLibraryEssentials-StandardTemplateLibrary-STLAlgorithms-test.dir\build.make StandardLibraryEssentials/StandardTemplateLibrary/STLAlgorithms/CMakeFiles/StandardLibraryEssentials-StandardTemplateLibrary-STLAlgorithms-test.dir/depend
 	$(MAKE) $(MAKESILENT) -f StandardLibraryEssentials\StandardTemplateLibrary\STLAlgorithms\CMakeFiles\StandardLibraryEssentials-StandardTemplateLibrary-STLAlgorithms-test.dir\build.make StandardLibraryEssentials/StandardTemplateLibrary/STLAlgorithms/CMakeFiles/StandardLibraryEssentials-StandardTemplateLibrary-STLAlgorithms-test.dir/build
@@ -5629,8 +5629,8 @@ StandardLibraryEssentials/StandardTemplateLibrary/SequentialContainerAdaptors/CM
 # Target rules for target StandardLibraryEssentials/StandardTemplateLibrary/SequentialContainerAdaptors/CMakeFiles/SequentialContainerAdaptors-test.dir
 
 # All Build rule for target.
-StandardLibraryEssentials/StandardTemplateLibrary/SequentialContainerAdaptors/CMakeFiles/SequentialContainerAdaptors-test.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/test-framework/googletest-build/googletest/CMakeFiles/gtest.dir/all
 StandardLibraryEssentials/StandardTemplateLibrary/SequentialContainerAdaptors/CMakeFiles/SequentialContainerAdaptors-test.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/test-framework/googletest-build/googletest/CMakeFiles/gtest_main.dir/all
+StandardLibraryEssentials/StandardTemplateLibrary/SequentialContainerAdaptors/CMakeFiles/SequentialContainerAdaptors-test.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/test-framework/googletest-build/googletest/CMakeFiles/gtest.dir/all
 StandardLibraryEssentials/StandardTemplateLibrary/SequentialContainerAdaptors/CMakeFiles/SequentialContainerAdaptors-test.dir/all: StandardLibraryEssentials/StandardTemplateLibrary/SequentialContainerAdaptors/CMakeFiles/SequentialContainerAdaptors-test-src-part.dir/all
 	$(MAKE) $(MAKESILENT) -f StandardLibraryEssentials\StandardTemplateLibrary\SequentialContainerAdaptors\CMakeFiles\SequentialContainerAdaptors-test.dir\build.make StandardLibraryEssentials/StandardTemplateLibrary/SequentialContainerAdaptors/CMakeFiles/SequentialContainerAdaptors-test.dir/depend
 	$(MAKE) $(MAKESILENT) -f StandardLibraryEssentials\StandardTemplateLibrary\SequentialContainerAdaptors\CMakeFiles\SequentialContainerAdaptors-test.dir\build.make StandardLibraryEssentials/StandardTemplateLibrary/SequentialContainerAdaptors/CMakeFiles/SequentialContainerAdaptors-test.dir/build
@@ -5727,8 +5727,8 @@ StandardLibraryEssentials/StandardTemplateLibrary/SequentialContainers/CMakeFile
 # Target rules for target StandardLibraryEssentials/StandardTemplateLibrary/SequentialContainers/CMakeFiles/StandardLibraryEssentials-StandardTemplateLibrary-SequentialContainers-test.dir
 
 # All Build rule for target.
-StandardLibraryEssentials/StandardTemplateLibrary/SequentialContainers/CMakeFiles/StandardLibraryEssentials-StandardTemplateLibrary-SequentialContainers-test.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/test-framework/googletest-build/googletest/CMakeFiles/gtest.dir/all
 StandardLibraryEssentials/StandardTemplateLibrary/SequentialContainers/CMakeFiles/StandardLibraryEssentials-StandardTemplateLibrary-SequentialContainers-test.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/test-framework/googletest-build/googletest/CMakeFiles/gtest_main.dir/all
+StandardLibraryEssentials/StandardTemplateLibrary/SequentialContainers/CMakeFiles/StandardLibraryEssentials-StandardTemplateLibrary-SequentialContainers-test.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/test-framework/googletest-build/googletest/CMakeFiles/gtest.dir/all
 StandardLibraryEssentials/StandardTemplateLibrary/SequentialContainers/CMakeFiles/StandardLibraryEssentials-StandardTemplateLibrary-SequentialContainers-test.dir/all: StandardLibraryEssentials/StandardTemplateLibrary/SequentialContainers/CMakeFiles/StandardLibraryEssentials-StandardTemplateLibrary-SequentialContainers-test-src-part.dir/all
 	$(MAKE) $(MAKESILENT) -f StandardLibraryEssentials\StandardTemplateLibrary\SequentialContainers\CMakeFiles\StandardLibraryEssentials-StandardTemplateLibrary-SequentialContainers-test.dir\build.make StandardLibraryEssentials/StandardTemplateLibrary/SequentialContainers/CMakeFiles/StandardLibraryEssentials-StandardTemplateLibrary-SequentialContainers-test.dir/depend
 	$(MAKE) $(MAKESILENT) -f StandardLibraryEssentials\StandardTemplateLibrary\SequentialContainers\CMakeFiles\StandardLibraryEssentials-StandardTemplateLibrary-SequentialContainers-test.dir\build.make StandardLibraryEssentials/StandardTemplateLibrary/SequentialContainers/CMakeFiles/StandardLibraryEssentials-StandardTemplateLibrary-SequentialContainers-test.dir/build
@@ -5825,8 +5825,8 @@ StandardLibraryEssentials/StandardTemplateLibrary/SetContainers/CMakeFiles/Stand
 # Target rules for target StandardLibraryEssentials/StandardTemplateLibrary/SetContainers/CMakeFiles/StandardLibraryEssentials-StandardTemplateLibrary-setContainers-test.dir
 
 # All Build rule for target.
-StandardLibraryEssentials/StandardTemplateLibrary/SetContainers/CMakeFiles/StandardLibraryEssentials-StandardTemplateLibrary-setContainers-test.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/test-framework/googletest-build/googletest/CMakeFiles/gtest.dir/all
 StandardLibraryEssentials/StandardTemplateLibrary/SetContainers/CMakeFiles/StandardLibraryEssentials-StandardTemplateLibrary-setContainers-test.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/test-framework/googletest-build/googletest/CMakeFiles/gtest_main.dir/all
+StandardLibraryEssentials/StandardTemplateLibrary/SetContainers/CMakeFiles/StandardLibraryEssentials-StandardTemplateLibrary-setContainers-test.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/test-framework/googletest-build/googletest/CMakeFiles/gtest.dir/all
 StandardLibraryEssentials/StandardTemplateLibrary/SetContainers/CMakeFiles/StandardLibraryEssentials-StandardTemplateLibrary-setContainers-test.dir/all: StandardLibraryEssentials/StandardTemplateLibrary/SetContainers/CMakeFiles/StandardLibraryEssentials-StandardTemplateLibrary-setContainers-test-src-part.dir/all
 	$(MAKE) $(MAKESILENT) -f StandardLibraryEssentials\StandardTemplateLibrary\SetContainers\CMakeFiles\StandardLibraryEssentials-StandardTemplateLibrary-setContainers-test.dir\build.make StandardLibraryEssentials/StandardTemplateLibrary/SetContainers/CMakeFiles/StandardLibraryEssentials-StandardTemplateLibrary-setContainers-test.dir/depend
 	$(MAKE) $(MAKESILENT) -f StandardLibraryEssentials\StandardTemplateLibrary\SetContainers\CMakeFiles\StandardLibraryEssentials-StandardTemplateLibrary-setContainers-test.dir\build.make StandardLibraryEssentials/StandardTemplateLibrary/SetContainers/CMakeFiles/StandardLibraryEssentials-StandardTemplateLibrary-setContainers-test.dir/build
@@ -5955,8 +5955,8 @@ StandardLibraryEssentials/StandardTemplateLibrary/UnorderedContainers/CMakeFiles
 # Target rules for target StandardLibraryEssentials/StandardTemplateLibrary/UnorderedContainers/CMakeFiles/StandardLibraryEssentials-StandardTemplateLibrary-UnorderedContainers-test.dir
 
 # All Build rule for target.
-StandardLibraryEssentials/StandardTemplateLibrary/UnorderedContainers/CMakeFiles/StandardLibraryEssentials-StandardTemplateLibrary-UnorderedContainers-test.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/test-framework/googletest-build/googletest/CMakeFiles/gtest.dir/all
 StandardLibraryEssentials/StandardTemplateLibrary/UnorderedContainers/CMakeFiles/StandardLibraryEssentials-StandardTemplateLibrary-UnorderedContainers-test.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/test-framework/googletest-build/googletest/CMakeFiles/gtest_main.dir/all
+StandardLibraryEssentials/StandardTemplateLibrary/UnorderedContainers/CMakeFiles/StandardLibraryEssentials-StandardTemplateLibrary-UnorderedContainers-test.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/test-framework/googletest-build/googletest/CMakeFiles/gtest.dir/all
 StandardLibraryEssentials/StandardTemplateLibrary/UnorderedContainers/CMakeFiles/StandardLibraryEssentials-StandardTemplateLibrary-UnorderedContainers-test.dir/all: StandardLibraryEssentials/StandardTemplateLibrary/UnorderedContainers/CMakeFiles/StandardLibraryEssentials-StandardTemplateLibrary-UnorderedContainers-test-src-part.dir/all
 	$(MAKE) $(MAKESILENT) -f StandardLibraryEssentials\StandardTemplateLibrary\UnorderedContainers\CMakeFiles\StandardLibraryEssentials-StandardTemplateLibrary-UnorderedContainers-test.dir\build.make StandardLibraryEssentials/StandardTemplateLibrary/UnorderedContainers/CMakeFiles/StandardLibraryEssentials-StandardTemplateLibrary-UnorderedContainers-test.dir/depend
 	$(MAKE) $(MAKESILENT) -f StandardLibraryEssentials\StandardTemplateLibrary\UnorderedContainers\CMakeFiles\StandardLibraryEssentials-StandardTemplateLibrary-UnorderedContainers-test.dir\build.make StandardLibraryEssentials/StandardTemplateLibrary/UnorderedContainers/CMakeFiles/StandardLibraryEssentials-StandardTemplateLibrary-UnorderedContainers-test.dir/build
@@ -6053,8 +6053,8 @@ StandardLibraryEssentials/StandardTemplateLibrary/VectorContainer/CMakeFiles/Sta
 # Target rules for target StandardLibraryEssentials/StandardTemplateLibrary/VectorContainer/CMakeFiles/StandardLibraryEssentials-StandardTemplateLibrary-VectorContainer-test.dir
 
 # All Build rule for target.
-StandardLibraryEssentials/StandardTemplateLibrary/VectorContainer/CMakeFiles/StandardLibraryEssentials-StandardTemplateLibrary-VectorContainer-test.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/test-framework/googletest-build/googletest/CMakeFiles/gtest.dir/all
 StandardLibraryEssentials/StandardTemplateLibrary/VectorContainer/CMakeFiles/StandardLibraryEssentials-StandardTemplateLibrary-VectorContainer-test.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/test-framework/googletest-build/googletest/CMakeFiles/gtest_main.dir/all
+StandardLibraryEssentials/StandardTemplateLibrary/VectorContainer/CMakeFiles/StandardLibraryEssentials-StandardTemplateLibrary-VectorContainer-test.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/test-framework/googletest-build/googletest/CMakeFiles/gtest.dir/all
 StandardLibraryEssentials/StandardTemplateLibrary/VectorContainer/CMakeFiles/StandardLibraryEssentials-StandardTemplateLibrary-VectorContainer-test.dir/all: StandardLibraryEssentials/StandardTemplateLibrary/VectorContainer/CMakeFiles/StandardLibraryEssentials-StandardTemplateLibrary-VectorContainer-test-src-part.dir/all
 	$(MAKE) $(MAKESILENT) -f StandardLibraryEssentials\StandardTemplateLibrary\VectorContainer\CMakeFiles\StandardLibraryEssentials-StandardTemplateLibrary-VectorContainer-test.dir\build.make StandardLibraryEssentials/StandardTemplateLibrary/VectorContainer/CMakeFiles/StandardLibraryEssentials-StandardTemplateLibrary-VectorContainer-test.dir/depend
 	$(MAKE) $(MAKESILENT) -f StandardLibraryEssentials\StandardTemplateLibrary\VectorContainer\CMakeFiles\StandardLibraryEssentials-StandardTemplateLibrary-VectorContainer-test.dir\build.make StandardLibraryEssentials/StandardTemplateLibrary/VectorContainer/CMakeFiles/StandardLibraryEssentials-StandardTemplateLibrary-VectorContainer-test.dir/build
@@ -6183,8 +6183,8 @@ StandardLibraryEssentials/Templates/TemplateBasics/CMakeFiles/StandardLibraryEss
 # Target rules for target StandardLibraryEssentials/Templates/TemplateBasics/CMakeFiles/StandardLibraryEssentials-Templates-First_templates-test.dir
 
 # All Build rule for target.
-StandardLibraryEssentials/Templates/TemplateBasics/CMakeFiles/StandardLibraryEssentials-Templates-First_templates-test.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/test-framework/googletest-build/googletest/CMakeFiles/gtest.dir/all
 StandardLibraryEssentials/Templates/TemplateBasics/CMakeFiles/StandardLibraryEssentials-Templates-First_templates-test.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/test-framework/googletest-build/googletest/CMakeFiles/gtest_main.dir/all
+StandardLibraryEssentials/Templates/TemplateBasics/CMakeFiles/StandardLibraryEssentials-Templates-First_templates-test.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/test-framework/googletest-build/googletest/CMakeFiles/gtest.dir/all
 StandardLibraryEssentials/Templates/TemplateBasics/CMakeFiles/StandardLibraryEssentials-Templates-First_templates-test.dir/all: StandardLibraryEssentials/Templates/TemplateBasics/CMakeFiles/StandardLibraryEssentials-Templates-First_templates-test-src-part.dir/all
 	$(MAKE) $(MAKESILENT) -f StandardLibraryEssentials\Templates\TemplateBasics\CMakeFiles\StandardLibraryEssentials-Templates-First_templates-test.dir\build.make StandardLibraryEssentials/Templates/TemplateBasics/CMakeFiles/StandardLibraryEssentials-Templates-First_templates-test.dir/depend
 	$(MAKE) $(MAKESILENT) -f StandardLibraryEssentials\Templates\TemplateBasics\CMakeFiles\StandardLibraryEssentials-Templates-First_templates-test.dir\build.make StandardLibraryEssentials/Templates/TemplateBasics/CMakeFiles/StandardLibraryEssentials-Templates-First_templates-test.dir/build
@@ -6281,8 +6281,8 @@ StandardLibraryEssentials/Templates/TemplateSpecialization/CMakeFiles/StandardLi
 # Target rules for target StandardLibraryEssentials/Templates/TemplateSpecialization/CMakeFiles/StandardLibraryEssentials-Templates-TemplateSpecialization-test.dir
 
 # All Build rule for target.
-StandardLibraryEssentials/Templates/TemplateSpecialization/CMakeFiles/StandardLibraryEssentials-Templates-TemplateSpecialization-test.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/test-framework/googletest-build/googletest/CMakeFiles/gtest.dir/all
 StandardLibraryEssentials/Templates/TemplateSpecialization/CMakeFiles/StandardLibraryEssentials-Templates-TemplateSpecialization-test.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/test-framework/googletest-build/googletest/CMakeFiles/gtest_main.dir/all
+StandardLibraryEssentials/Templates/TemplateSpecialization/CMakeFiles/StandardLibraryEssentials-Templates-TemplateSpecialization-test.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/test-framework/googletest-build/googletest/CMakeFiles/gtest.dir/all
 StandardLibraryEssentials/Templates/TemplateSpecialization/CMakeFiles/StandardLibraryEssentials-Templates-TemplateSpecialization-test.dir/all: StandardLibraryEssentials/Templates/TemplateSpecialization/CMakeFiles/StandardLibraryEssentials-Templates-TemplateSpecialization-test-src-part.dir/all
 	$(MAKE) $(MAKESILENT) -f StandardLibraryEssentials\Templates\TemplateSpecialization\CMakeFiles\StandardLibraryEssentials-Templates-TemplateSpecialization-test.dir\build.make StandardLibraryEssentials/Templates/TemplateSpecialization/CMakeFiles/StandardLibraryEssentials-Templates-TemplateSpecialization-test.dir/depend
 	$(MAKE) $(MAKESILENT) -f StandardLibraryEssentials\Templates\TemplateSpecialization\CMakeFiles\StandardLibraryEssentials-Templates-TemplateSpecialization-test.dir\build.make StandardLibraryEssentials/Templates/TemplateSpecialization/CMakeFiles/StandardLibraryEssentials-Templates-TemplateSpecialization-test.dir/build
@@ -6734,8 +6734,8 @@ WarmUp/Quiz/MaxInt/CMakeFiles/WarmUp-Quiz-MaxInt-test-src-part.dir/clean:
 # Target rules for target WarmUp/Quiz/MaxInt/CMakeFiles/WarmUp-Quiz-MaxInt-test.dir
 
 # All Build rule for target.
-WarmUp/Quiz/MaxInt/CMakeFiles/WarmUp-Quiz-MaxInt-test.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/test-framework/googletest-build/googletest/CMakeFiles/gtest.dir/all
 WarmUp/Quiz/MaxInt/CMakeFiles/WarmUp-Quiz-MaxInt-test.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/test-framework/googletest-build/googletest/CMakeFiles/gtest_main.dir/all
+WarmUp/Quiz/MaxInt/CMakeFiles/WarmUp-Quiz-MaxInt-test.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/test-framework/googletest-build/googletest/CMakeFiles/gtest.dir/all
 WarmUp/Quiz/MaxInt/CMakeFiles/WarmUp-Quiz-MaxInt-test.dir/all: WarmUp/Quiz/MaxInt/CMakeFiles/WarmUp-Quiz-MaxInt-test-src-part.dir/all
 	$(MAKE) $(MAKESILENT) -f WarmUp\Quiz\MaxInt\CMakeFiles\WarmUp-Quiz-MaxInt-test.dir\build.make WarmUp/Quiz/MaxInt/CMakeFiles/WarmUp-Quiz-MaxInt-test.dir/depend
 	$(MAKE) $(MAKESILENT) -f WarmUp\Quiz\MaxInt\CMakeFiles\WarmUp-Quiz-MaxInt-test.dir\build.make WarmUp/Quiz/MaxInt/CMakeFiles/WarmUp-Quiz-MaxInt-test.dir/build
@@ -6832,8 +6832,8 @@ WarmUp/Quiz/SumPositive/CMakeFiles/WarmUp-Quiz-SumPositive-test-src-part.dir/cle
 # Target rules for target WarmUp/Quiz/SumPositive/CMakeFiles/WarmUp-Quiz-SumPositive-test.dir
 
 # All Build rule for target.
-WarmUp/Quiz/SumPositive/CMakeFiles/WarmUp-Quiz-SumPositive-test.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/test-framework/googletest-build/googletest/CMakeFiles/gtest.dir/all
 WarmUp/Quiz/SumPositive/CMakeFiles/WarmUp-Quiz-SumPositive-test.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/test-framework/googletest-build/googletest/CMakeFiles/gtest_main.dir/all
+WarmUp/Quiz/SumPositive/CMakeFiles/WarmUp-Quiz-SumPositive-test.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/test-framework/googletest-build/googletest/CMakeFiles/gtest.dir/all
 WarmUp/Quiz/SumPositive/CMakeFiles/WarmUp-Quiz-SumPositive-test.dir/all: WarmUp/Quiz/SumPositive/CMakeFiles/WarmUp-Quiz-SumPositive-test-src-part.dir/all
 	$(MAKE) $(MAKESILENT) -f WarmUp\Quiz\SumPositive\CMakeFiles\WarmUp-Quiz-SumPositive-test.dir\build.make WarmUp/Quiz/SumPositive/CMakeFiles/WarmUp-Quiz-SumPositive-test.dir/depend
 	$(MAKE) $(MAKESILENT) -f WarmUp\Quiz\SumPositive\CMakeFiles\WarmUp-Quiz-SumPositive-test.dir\build.make WarmUp/Quiz/SumPositive/CMakeFiles/WarmUp-Quiz-SumPositive-test.dir/build

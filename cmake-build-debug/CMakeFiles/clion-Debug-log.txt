@@ -38,7 +38,7 @@ CMake Deprecation Warning at test-framework/googletest-src/googletest/CMakeLists
   to work with policies introduced by <max> or earlier.
 
 
--- Configuring done (0.1s)
+-- Configuring done (0.0s)
 -- Generating done (0.0s)
 -- Build files have been written to: C:/Users/B760M/CLionProjects/C++ Basics/sfml
 [ 11%] Performing update step for 'sfml'
@@ -59,6 +59,6 @@ CMake Deprecation Warning at sfml/sfml-src/CMakeLists.txt:1 (cmake_minimum_requi
   to work with policies introduced by <max> or earlier.
 
 
--- Configuring done (1.9s)
--- Generating done (3.4s)
+-- Configuring done (1.8s)
+-- Generating done (3.6s)
 -- Build files have been written to: C:/Users/B760M/CLionProjects/C++ Basics/cmake-build-debug

@@ -226,7 +226,12 @@ ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgra
  C:/Users/B760M/CLIONP~1/C__BAS~1/TEST-F~1/GOOGLE~2/GOOGLE~2/include/gtest/gtest-typed-test.h \
  C:/Users/B760M/CLIONP~1/C__BAS~1/TEST-F~1/GOOGLE~2/GOOGLE~2/include/gtest/gtest_pred_impl.h \
  C:/Users/B760M/CLIONP~1/C__BAS~1/TEST-F~1/GOOGLE~2/GOOGLE~2/include/gtest/gtest_prod.h \
- C:/Users/B760M/CLIONP~1/C__BAS~1/include/gobject.hpp \
+ C:/Users/B760M/CLIONP~1/C__BAS~1/include/operators.hpp \
+ C:/Users/B760M/CLIONP~1/C__BAS~1/include/point.hpp \
+ C:/Users/B760M/CLIONP~1/C__BAS~1/include/circle.hpp \
+ C:/Users/B760M/CLIONP~1/C__BAS~1/include/rectangle.hpp \
+ C:/Users/B760M/CLIONP~1/C__BAS~1/include/collision.hpp \
+ C:/Users/B760M/CLIONP~1/C__BAS~1/include/direction.hpp \
  C:/Users/B760M/CLIONP~1/C__BAS~1/sfml/sfml-src/include/SFML/Graphics.hpp \
  C:/Users/B760M/CLIONP~1/C__BAS~1/sfml/sfml-src/include/SFML/Window.hpp \
  C:/Users/B760M/CLIONP~1/C__BAS~1/sfml/sfml-src/include/SFML/System.hpp \
@@ -308,29 +313,7 @@ ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgra
  C:/Users/B760M/CLIONP~1/C__BAS~1/sfml/sfml-src/include/SFML/Graphics/Sprite.hpp \
  C:/Users/B760M/CLIONP~1/C__BAS~1/sfml/sfml-src/include/SFML/Graphics/Text.hpp \
  C:/Users/B760M/CLIONP~1/C__BAS~1/sfml/sfml-src/include/SFML/Graphics/VertexBuffer.hpp \
- C:/Users/B760M/CLIONP~1/C__BAS~1/include/point.hpp \
- C:/Users/B760M/CLIONP~1/C__BAS~1/include/rectangle.hpp \
- C:/Users/B760M/CLIONP~1/C__BAS~1/include/collision.hpp \
- C:/Users/B760M/CLIONP~1/C__BAS~1/include/circle.hpp \
- C:/Users/B760M/CLIONP~1/C__BAS~1/include/textures.hpp \
- C:/Users/B760M/CLIONP~1/C__BAS~1/include/enums.hpp \
- C:/Users/B760M/CLIONP~1/C__BAS~1/include/operators.hpp \
- C:/Users/B760M/CLIONP~1/C__BAS~1/include/direction.hpp \
  C:/Users/B760M/CLIONP~1/C__BAS~1/include/constants.hpp \
- C:/Users/B760M/CLIONP~1/C__BAS~1/include/testscene.hpp \
- C:/Users/B760M/CLIONP~1/C__BAS~1/include/scene.hpp \
- C:/Users/B760M/CLIONP~1/C__BAS~1/include/gobject.hpp \
- C:/Users/B760M/CLIONP~1/C__BAS~1/include/cgobject.hpp \
- C:/Users/B760M/CLIONP~1/C__BAS~1/include/player.hpp \
- C:/Users/B760M/CLIONP~1/C__BAS~1/include/consumable.hpp \
- C:/Users/B760M/CLIONP~1/C__BAS~1/include/enemy.hpp \
- C:/Users/B760M/CLIONP~1/C__BAS~1/include/dynscene.hpp \
- C:/Users/B760M/CLIONP~1/C__BAS~1/include/gobjectlist.hpp \
- C:/Users/B760M/CLIONP~1/C__BAS~1/include/leaderboard.hpp \
- C:/Users/B760M/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/fstream \
- C:/Users/B760M/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/basic_file.h \
- C:/Users/B760M/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/c++io.h \
- C:/Users/B760M/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/fstream.tcc \
- C:/Users/B760M/CLIONP~1/C__BAS~1/include/leaderboardscene.hpp \
+ C:/Users/B760M/CLIONP~1/C__BAS~1/include/enums.hpp \
  C:/Users/B760M/CLIONP~1/C__BAS~1/include/testing.hpp \
  C:/Users/B760M/CLIONP~1/C__BAS~1/include/utils.hpp

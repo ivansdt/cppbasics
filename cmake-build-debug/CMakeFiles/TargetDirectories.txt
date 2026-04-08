@@ -419,9 +419,9 @@ C:/Users/B760M/CLionProjects/C++ Basics/cmake-build-debug/MemoryManagement/TypeC
 C:/Users/B760M/CLionProjects/C++ Basics/cmake-build-debug/MemoryManagement/TypeCastsAndCStrings/TypeCastsQuestion/CMakeFiles/install.dir
 C:/Users/B760M/CLionProjects/C++ Basics/cmake-build-debug/MemoryManagement/TypeCastsAndCStrings/TypeCastsQuestion/CMakeFiles/install/local.dir
 C:/Users/B760M/CLionProjects/C++ Basics/cmake-build-debug/MemoryManagement/TypeCastsAndCStrings/TypeCastsQuestion/CMakeFiles/install/strip.dir
-C:/Users/B760M/CLionProjects/C++ Basics/cmake-build-debug/ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-run.dir
-C:/Users/B760M/CLionProjects/C++ Basics/cmake-build-debug/ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test-src-part.dir
-C:/Users/B760M/CLionProjects/C++ Basics/cmake-build-debug/ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Polymorphism-test.dir
+C:/Users/B760M/CLionProjects/C++ Basics/cmake-build-debug/ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-run.dir
+C:/Users/B760M/CLionProjects/C++ Basics/cmake-build-debug/ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test-src-part.dir
+C:/Users/B760M/CLionProjects/C++ Basics/cmake-build-debug/ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test.dir
 C:/Users/B760M/CLionProjects/C++ Basics/cmake-build-debug/ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/package.dir
 C:/Users/B760M/CLionProjects/C++ Basics/cmake-build-debug/ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/package_source.dir
 C:/Users/B760M/CLionProjects/C++ Basics/cmake-build-debug/ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/edit_cache.dir
