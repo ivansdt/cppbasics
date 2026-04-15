@@ -974,43 +974,43 @@ MemoryManagement-TypeCastsAndCStrings-TypeCastsQuestion-run/fast:
 .PHONY : MemoryManagement-TypeCastsAndCStrings-TypeCastsQuestion-run/fast
 
 #=============================================================================
-# Target rules for targets named ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-run
+# Target rules for targets named ObjectOrientedProgramming-ClassesAndObjects-StaticMembers-run
 
 # Build rule for target.
-ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-run: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-run
-.PHONY : ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-run
+ObjectOrientedProgramming-ClassesAndObjects-StaticMembers-run: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 ObjectOrientedProgramming-ClassesAndObjects-StaticMembers-run
+.PHONY : ObjectOrientedProgramming-ClassesAndObjects-StaticMembers-run
 
 # fast build rule for target.
-ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-run/fast:
-	$(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-run.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-run.dir/build
-.PHONY : ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-run/fast
+ObjectOrientedProgramming-ClassesAndObjects-StaticMembers-run/fast:
+	$(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-StaticMembers-run.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-StaticMembers-run.dir/build
+.PHONY : ObjectOrientedProgramming-ClassesAndObjects-StaticMembers-run/fast
 
 #=============================================================================
-# Target rules for targets named ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test-src-part
+# Target rules for targets named ObjectOrientedProgramming-ClassesAndObjects-StaticMembers-test-src-part
 
 # Build rule for target.
-ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test-src-part: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test-src-part
-.PHONY : ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test-src-part
+ObjectOrientedProgramming-ClassesAndObjects-StaticMembers-test-src-part: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 ObjectOrientedProgramming-ClassesAndObjects-StaticMembers-test-src-part
+.PHONY : ObjectOrientedProgramming-ClassesAndObjects-StaticMembers-test-src-part
 
 # fast build rule for target.
-ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test-src-part/fast:
-	$(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test-src-part.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test-src-part.dir/build
-.PHONY : ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test-src-part/fast
+ObjectOrientedProgramming-ClassesAndObjects-StaticMembers-test-src-part/fast:
+	$(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-StaticMembers-test-src-part.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-StaticMembers-test-src-part.dir/build
+.PHONY : ObjectOrientedProgramming-ClassesAndObjects-StaticMembers-test-src-part/fast
 
 #=============================================================================
-# Target rules for targets named ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test
+# Target rules for targets named ObjectOrientedProgramming-ClassesAndObjects-StaticMembers-test
 
 # Build rule for target.
-ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test
-.PHONY : ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test
+ObjectOrientedProgramming-ClassesAndObjects-StaticMembers-test: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 ObjectOrientedProgramming-ClassesAndObjects-StaticMembers-test
+.PHONY : ObjectOrientedProgramming-ClassesAndObjects-StaticMembers-test
 
 # fast build rule for target.
-ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test/fast:
-	$(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test.dir/build
-.PHONY : ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test/fast
+ObjectOrientedProgramming-ClassesAndObjects-StaticMembers-test/fast:
+	$(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-StaticMembers-test.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-StaticMembers-test.dir/build
+.PHONY : ObjectOrientedProgramming-ClassesAndObjects-StaticMembers-test/fast
 
 #=============================================================================
 # Target rules for targets named ObjectOrientedProgramming-MemoryOwnership-CopyConstructor-run
@@ -2092,9 +2092,9 @@ help:
 	@echo ... MemoryManagement-TypeCastsAndCStrings-CppCast-run
 	@echo ... MemoryManagement-TypeCastsAndCStrings-Survey-run
 	@echo ... MemoryManagement-TypeCastsAndCStrings-TypeCastsQuestion-run
-	@echo ... ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-run
-	@echo ... ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test
-	@echo ... ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test-src-part
+	@echo ... ObjectOrientedProgramming-ClassesAndObjects-StaticMembers-run
+	@echo ... ObjectOrientedProgramming-ClassesAndObjects-StaticMembers-test
+	@echo ... ObjectOrientedProgramming-ClassesAndObjects-StaticMembers-test-src-part
 	@echo ... ObjectOrientedProgramming-MemoryOwnership-CopyConstructor-run
 	@echo ... ObjectOrientedProgramming-MemoryOwnership-Introduction-run
 	@echo ... ObjectOrientedProgramming-MemoryOwnership-MoveSemantics-run

@@ -679,6 +679,24 @@ OPENGL_gl_LIBRARY:STRING=opengl32
 OPENGL_glu_LIBRARY:STRING=glu32
 
 //Value Computed by CMake
+ObjectOrientedProgramming-ClassesAndObjects-AddingScore_BINARY_DIR:STATIC=C:/Users/B760M/CLionProjects/C++ Basics/cmake-build-debug/ObjectOrientedProgramming/ClassesAndObjects/task
+
+//Value Computed by CMake
+ObjectOrientedProgramming-ClassesAndObjects-AddingScore_IS_TOP_LEVEL:STATIC=OFF
+
+//Value Computed by CMake
+ObjectOrientedProgramming-ClassesAndObjects-AddingScore_SOURCE_DIR:STATIC=C:/Users/B760M/CLionProjects/C++ Basics/ObjectOrientedProgramming/ClassesAndObjects/task
+
+//Value Computed by CMake
+ObjectOrientedProgramming-ClassesAndObjects-CollisionsRevisited_BINARY_DIR:STATIC=C:/Users/B760M/CLionProjects/C++ Basics/cmake-build-debug/ObjectOrientedProgramming/ClassesAndObjects/task
+
+//Value Computed by CMake
+ObjectOrientedProgramming-ClassesAndObjects-CollisionsRevisited_IS_TOP_LEVEL:STATIC=OFF
+
+//Value Computed by CMake
+ObjectOrientedProgramming-ClassesAndObjects-CollisionsRevisited_SOURCE_DIR:STATIC=C:/Users/B760M/CLionProjects/C++ Basics/ObjectOrientedProgramming/ClassesAndObjects/task
+
+//Value Computed by CMake
 ObjectOrientedProgramming-ClassesAndObjects-Encapsulation_BINARY_DIR:STATIC=C:/Users/B760M/CLionProjects/C++ Basics/cmake-build-debug/ObjectOrientedProgramming/ClassesAndObjects/task
 
 //Value Computed by CMake
@@ -715,6 +733,15 @@ ObjectOrientedProgramming-ClassesAndObjects-Introduction_IS_TOP_LEVEL:STATIC=OFF
 ObjectOrientedProgramming-ClassesAndObjects-Introduction_SOURCE_DIR:STATIC=C:/Users/B760M/CLionProjects/C++ Basics/ObjectOrientedProgramming/ClassesAndObjects/task
 
 //Value Computed by CMake
+ObjectOrientedProgramming-ClassesAndObjects-NewChallenge_BINARY_DIR:STATIC=C:/Users/B760M/CLionProjects/C++ Basics/cmake-build-debug/ObjectOrientedProgramming/ClassesAndObjects/task
+
+//Value Computed by CMake
+ObjectOrientedProgramming-ClassesAndObjects-NewChallenge_IS_TOP_LEVEL:STATIC=OFF
+
+//Value Computed by CMake
+ObjectOrientedProgramming-ClassesAndObjects-NewChallenge_SOURCE_DIR:STATIC=C:/Users/B760M/CLionProjects/C++ Basics/ObjectOrientedProgramming/ClassesAndObjects/task
+
+//Value Computed by CMake
 ObjectOrientedProgramming-ClassesAndObjects-OperatorsOverloading_BINARY_DIR:STATIC=C:/Users/B760M/CLionProjects/C++ Basics/cmake-build-debug/ObjectOrientedProgramming/ClassesAndObjects/task
 
 //Value Computed by CMake
@@ -731,6 +758,15 @@ ObjectOrientedProgramming-ClassesAndObjects-Polymorphism_IS_TOP_LEVEL:STATIC=OFF
 
 //Value Computed by CMake
 ObjectOrientedProgramming-ClassesAndObjects-Polymorphism_SOURCE_DIR:STATIC=C:/Users/B760M/CLionProjects/C++ Basics/ObjectOrientedProgramming/ClassesAndObjects/task
+
+//Value Computed by CMake
+ObjectOrientedProgramming-ClassesAndObjects-StaticMembers_BINARY_DIR:STATIC=C:/Users/B760M/CLionProjects/C++ Basics/cmake-build-debug/ObjectOrientedProgramming/ClassesAndObjects/task
+
+//Value Computed by CMake
+ObjectOrientedProgramming-ClassesAndObjects-StaticMembers_IS_TOP_LEVEL:STATIC=OFF
+
+//Value Computed by CMake
+ObjectOrientedProgramming-ClassesAndObjects-StaticMembers_SOURCE_DIR:STATIC=C:/Users/B760M/CLionProjects/C++ Basics/ObjectOrientedProgramming/ClassesAndObjects/task
 
 //Value Computed by CMake
 ObjectOrientedProgramming-MemoryOwnership-CopyConstructor_BINARY_DIR:STATIC=C:/Users/B760M/CLionProjects/C++ Basics/cmake-build-debug/ObjectOrientedProgramming/MemoryOwnership/CopyConstructor

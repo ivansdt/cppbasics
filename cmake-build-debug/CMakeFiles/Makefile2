@@ -1070,15 +1070,15 @@ MemoryManagement/TypeCastsAndCStrings/TypeCastsQuestion/clean: MemoryManagement/
 # Directory level rules for directory ObjectOrientedProgramming/ClassesAndObjects/task
 
 # Recursive "all" directory target.
-ObjectOrientedProgramming/ClassesAndObjects/task/all: ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-run.dir/all
-ObjectOrientedProgramming/ClassesAndObjects/task/all: ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test-src-part.dir/all
-ObjectOrientedProgramming/ClassesAndObjects/task/all: ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test.dir/all
+ObjectOrientedProgramming/ClassesAndObjects/task/all: ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-StaticMembers-run.dir/all
+ObjectOrientedProgramming/ClassesAndObjects/task/all: ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-StaticMembers-test-src-part.dir/all
+ObjectOrientedProgramming/ClassesAndObjects/task/all: ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-StaticMembers-test.dir/all
 .PHONY : ObjectOrientedProgramming/ClassesAndObjects/task/all
 
 # Recursive "codegen" directory target.
-ObjectOrientedProgramming/ClassesAndObjects/task/codegen: ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-run.dir/codegen
-ObjectOrientedProgramming/ClassesAndObjects/task/codegen: ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test-src-part.dir/codegen
-ObjectOrientedProgramming/ClassesAndObjects/task/codegen: ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test.dir/codegen
+ObjectOrientedProgramming/ClassesAndObjects/task/codegen: ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-StaticMembers-run.dir/codegen
+ObjectOrientedProgramming/ClassesAndObjects/task/codegen: ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-StaticMembers-test-src-part.dir/codegen
+ObjectOrientedProgramming/ClassesAndObjects/task/codegen: ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-StaticMembers-test.dir/codegen
 .PHONY : ObjectOrientedProgramming/ClassesAndObjects/task/codegen
 
 # Recursive "preinstall" directory target.
@@ -1086,9 +1086,9 @@ ObjectOrientedProgramming/ClassesAndObjects/task/preinstall:
 .PHONY : ObjectOrientedProgramming/ClassesAndObjects/task/preinstall
 
 # Recursive "clean" directory target.
-ObjectOrientedProgramming/ClassesAndObjects/task/clean: ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-run.dir/clean
-ObjectOrientedProgramming/ClassesAndObjects/task/clean: ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test-src-part.dir/clean
-ObjectOrientedProgramming/ClassesAndObjects/task/clean: ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test.dir/clean
+ObjectOrientedProgramming/ClassesAndObjects/task/clean: ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-StaticMembers-run.dir/clean
+ObjectOrientedProgramming/ClassesAndObjects/task/clean: ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-StaticMembers-test-src-part.dir/clean
+ObjectOrientedProgramming/ClassesAndObjects/task/clean: ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-StaticMembers-test.dir/clean
 .PHONY : ObjectOrientedProgramming/ClassesAndObjects/task/clean
 
 #=============================================================================
@@ -4218,112 +4218,112 @@ MemoryManagement/TypeCastsAndCStrings/TypeCastsQuestion/CMakeFiles/MemoryManagem
 .PHONY : MemoryManagement/TypeCastsAndCStrings/TypeCastsQuestion/CMakeFiles/MemoryManagement-TypeCastsAndCStrings-TypeCastsQuestion-run.dir/clean
 
 #=============================================================================
-# Target rules for target ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-run.dir
+# Target rules for target ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-StaticMembers-run.dir
 
 # All Build rule for target.
-ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-run.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/sfml/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/all
-ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-run.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/sfml/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/all
-ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-run.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/sfml/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/all
-ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-run.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/sfml/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/all
-	$(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-run.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-run.dir/depend
-	$(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-run.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-run.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="C:\Users\B760M\CLionProjects\C++ Basics\cmake-build-debug\CMakeFiles" --progress-num=26,27,28,29,30 "Built target ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-run"
-.PHONY : ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-run.dir/all
+ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-StaticMembers-run.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/sfml/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/all
+ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-StaticMembers-run.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/sfml/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/all
+ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-StaticMembers-run.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/sfml/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/all
+ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-StaticMembers-run.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/sfml/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/all
+	$(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-StaticMembers-run.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-StaticMembers-run.dir/depend
+	$(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-StaticMembers-run.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-StaticMembers-run.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="C:\Users\B760M\CLionProjects\C++ Basics\cmake-build-debug\CMakeFiles" --progress-num=26,27,28,29,30 "Built target ObjectOrientedProgramming-ClassesAndObjects-StaticMembers-run"
+.PHONY : ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-StaticMembers-run.dir/all
 
 # Build rule for subdir invocation for target.
-ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-run.dir/rule: cmake_check_build_system
+ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-StaticMembers-run.dir/rule: cmake_check_build_system
 	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\B760M\CLionProjects\C++ Basics\cmake-build-debug\CMakeFiles" 27
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-run.dir/all
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-StaticMembers-run.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\B760M\CLionProjects\C++ Basics\cmake-build-debug\CMakeFiles" 0
-.PHONY : ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-run.dir/rule
+.PHONY : ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-StaticMembers-run.dir/rule
 
 # Convenience name for target.
-ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-run: ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-run.dir/rule
-.PHONY : ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-run
+ObjectOrientedProgramming-ClassesAndObjects-StaticMembers-run: ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-StaticMembers-run.dir/rule
+.PHONY : ObjectOrientedProgramming-ClassesAndObjects-StaticMembers-run
 
 # codegen rule for target.
-ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-run.dir/codegen:
-	$(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-run.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-run.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="C:\Users\B760M\CLionProjects\C++ Basics\cmake-build-debug\CMakeFiles" --progress-num=26,27,28,29,30 "Finished codegen for target ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-run"
-.PHONY : ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-run.dir/codegen
+ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-StaticMembers-run.dir/codegen:
+	$(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-StaticMembers-run.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-StaticMembers-run.dir/codegen
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="C:\Users\B760M\CLionProjects\C++ Basics\cmake-build-debug\CMakeFiles" --progress-num=26,27,28,29,30 "Finished codegen for target ObjectOrientedProgramming-ClassesAndObjects-StaticMembers-run"
+.PHONY : ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-StaticMembers-run.dir/codegen
 
 # clean rule for target.
-ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-run.dir/clean:
-	$(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-run.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-run.dir/clean
-.PHONY : ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-run.dir/clean
+ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-StaticMembers-run.dir/clean:
+	$(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-StaticMembers-run.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-StaticMembers-run.dir/clean
+.PHONY : ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-StaticMembers-run.dir/clean
 
 #=============================================================================
-# Target rules for target ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test-src-part.dir
+# Target rules for target ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-StaticMembers-test-src-part.dir
 
 # All Build rule for target.
-ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test-src-part.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/sfml/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/all
-ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test-src-part.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/sfml/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/all
-ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test-src-part.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/sfml/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/all
-ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test-src-part.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/sfml/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/all
-	$(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test-src-part.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test-src-part.dir/depend
-	$(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test-src-part.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test-src-part.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="C:\Users\B760M\CLionProjects\C++ Basics\cmake-build-debug\CMakeFiles" --progress-num=31,32,33,34,35 "Built target ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test-src-part"
-.PHONY : ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test-src-part.dir/all
+ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-StaticMembers-test-src-part.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/sfml/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/all
+ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-StaticMembers-test-src-part.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/sfml/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/all
+ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-StaticMembers-test-src-part.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/sfml/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/all
+ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-StaticMembers-test-src-part.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/sfml/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/all
+	$(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-StaticMembers-test-src-part.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-StaticMembers-test-src-part.dir/depend
+	$(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-StaticMembers-test-src-part.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-StaticMembers-test-src-part.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="C:\Users\B760M\CLionProjects\C++ Basics\cmake-build-debug\CMakeFiles" --progress-num=31,32,33,34,35 "Built target ObjectOrientedProgramming-ClassesAndObjects-StaticMembers-test-src-part"
+.PHONY : ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-StaticMembers-test-src-part.dir/all
 
 # Build rule for subdir invocation for target.
-ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test-src-part.dir/rule: cmake_check_build_system
+ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-StaticMembers-test-src-part.dir/rule: cmake_check_build_system
 	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\B760M\CLionProjects\C++ Basics\cmake-build-debug\CMakeFiles" 27
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test-src-part.dir/all
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-StaticMembers-test-src-part.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\B760M\CLionProjects\C++ Basics\cmake-build-debug\CMakeFiles" 0
-.PHONY : ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test-src-part.dir/rule
+.PHONY : ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-StaticMembers-test-src-part.dir/rule
 
 # Convenience name for target.
-ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test-src-part: ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test-src-part.dir/rule
-.PHONY : ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test-src-part
+ObjectOrientedProgramming-ClassesAndObjects-StaticMembers-test-src-part: ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-StaticMembers-test-src-part.dir/rule
+.PHONY : ObjectOrientedProgramming-ClassesAndObjects-StaticMembers-test-src-part
 
 # codegen rule for target.
-ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test-src-part.dir/codegen:
-	$(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test-src-part.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test-src-part.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="C:\Users\B760M\CLionProjects\C++ Basics\cmake-build-debug\CMakeFiles" --progress-num=31,32,33,34,35 "Finished codegen for target ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test-src-part"
-.PHONY : ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test-src-part.dir/codegen
+ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-StaticMembers-test-src-part.dir/codegen:
+	$(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-StaticMembers-test-src-part.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-StaticMembers-test-src-part.dir/codegen
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="C:\Users\B760M\CLionProjects\C++ Basics\cmake-build-debug\CMakeFiles" --progress-num=31,32,33,34,35 "Finished codegen for target ObjectOrientedProgramming-ClassesAndObjects-StaticMembers-test-src-part"
+.PHONY : ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-StaticMembers-test-src-part.dir/codegen
 
 # clean rule for target.
-ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test-src-part.dir/clean:
-	$(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test-src-part.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test-src-part.dir/clean
-.PHONY : ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test-src-part.dir/clean
+ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-StaticMembers-test-src-part.dir/clean:
+	$(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-StaticMembers-test-src-part.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-StaticMembers-test-src-part.dir/clean
+.PHONY : ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-StaticMembers-test-src-part.dir/clean
 
 #=============================================================================
-# Target rules for target ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test.dir
+# Target rules for target ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-StaticMembers-test.dir
 
 # All Build rule for target.
-ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/test-framework/googletest-build/googletest/CMakeFiles/gtest_main.dir/all
-ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/test-framework/googletest-build/googletest/CMakeFiles/gtest.dir/all
-ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/sfml/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/all
-ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/sfml/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/all
-ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/sfml/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/all
-ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/sfml/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/all
-ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test.dir/all: ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test-src-part.dir/all
-	$(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test.dir/depend
-	$(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="C:\Users\B760M\CLionProjects\C++ Basics\cmake-build-debug\CMakeFiles" --progress-num= "Built target ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test"
-.PHONY : ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test.dir/all
+ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-StaticMembers-test.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/test-framework/googletest-build/googletest/CMakeFiles/gtest_main.dir/all
+ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-StaticMembers-test.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/test-framework/googletest-build/googletest/CMakeFiles/gtest.dir/all
+ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-StaticMembers-test.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/sfml/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/all
+ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-StaticMembers-test.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/sfml/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/all
+ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-StaticMembers-test.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/sfml/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/all
+ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-StaticMembers-test.dir/all: C:/Users/B760M/CLionProjects/C++\ Basics/sfml/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/all
+ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-StaticMembers-test.dir/all: ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-StaticMembers-test-src-part.dir/all
+	$(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-StaticMembers-test.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-StaticMembers-test.dir/depend
+	$(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-StaticMembers-test.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-StaticMembers-test.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="C:\Users\B760M\CLionProjects\C++ Basics\cmake-build-debug\CMakeFiles" --progress-num= "Built target ObjectOrientedProgramming-ClassesAndObjects-StaticMembers-test"
+.PHONY : ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-StaticMembers-test.dir/all
 
 # Build rule for subdir invocation for target.
-ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test.dir/rule: cmake_check_build_system
+ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-StaticMembers-test.dir/rule: cmake_check_build_system
 	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\B760M\CLionProjects\C++ Basics\cmake-build-debug\CMakeFiles" 28
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test.dir/all
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-StaticMembers-test.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\B760M\CLionProjects\C++ Basics\cmake-build-debug\CMakeFiles" 0
-.PHONY : ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test.dir/rule
+.PHONY : ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-StaticMembers-test.dir/rule
 
 # Convenience name for target.
-ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test: ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test.dir/rule
-.PHONY : ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test
+ObjectOrientedProgramming-ClassesAndObjects-StaticMembers-test: ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-StaticMembers-test.dir/rule
+.PHONY : ObjectOrientedProgramming-ClassesAndObjects-StaticMembers-test
 
 # codegen rule for target.
-ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test.dir/codegen:
-	$(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="C:\Users\B760M\CLionProjects\C++ Basics\cmake-build-debug\CMakeFiles" --progress-num= "Finished codegen for target ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test"
-.PHONY : ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test.dir/codegen
+ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-StaticMembers-test.dir/codegen:
+	$(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-StaticMembers-test.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-StaticMembers-test.dir/codegen
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="C:\Users\B760M\CLionProjects\C++ Basics\cmake-build-debug\CMakeFiles" --progress-num= "Finished codegen for target ObjectOrientedProgramming-ClassesAndObjects-StaticMembers-test"
+.PHONY : ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-StaticMembers-test.dir/codegen
 
 # clean rule for target.
-ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test.dir/clean:
-	$(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test.dir/clean
-.PHONY : ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-Encapsulation-test.dir/clean
+ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-StaticMembers-test.dir/clean:
+	$(MAKE) $(MAKESILENT) -f ObjectOrientedProgramming\ClassesAndObjects\task\CMakeFiles\ObjectOrientedProgramming-ClassesAndObjects-StaticMembers-test.dir\build.make ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-StaticMembers-test.dir/clean
+.PHONY : ObjectOrientedProgramming/ClassesAndObjects/task/CMakeFiles/ObjectOrientedProgramming-ClassesAndObjects-StaticMembers-test.dir/clean
 
 #=============================================================================
 # Target rules for target ObjectOrientedProgramming/MemoryOwnership/CopyConstructor/CMakeFiles/ObjectOrientedProgramming-MemoryOwnership-CopyConstructor-run.dir

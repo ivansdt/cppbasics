@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.25)
 
-project(ObjectOrientedProgramming-ClassesAndObjects-Encapsulation)
+project(ObjectOrientedProgramming-ClassesAndObjects-StaticMembers)
 
 set(SRC
         src/main.cpp
@@ -11,6 +11,7 @@ set(SRC
         src/collision.cpp src/direction.cpp
         src/rectangle.cpp src/point.cpp
         src/operators.cpp src/utils.cpp
+        src/leaderboardscene.cpp src/leaderboard.cpp
 )
 
 set(TEST
